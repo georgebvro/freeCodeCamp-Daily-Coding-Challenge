@@ -1,12 +1,13 @@
-# freeCodeCamp Daily Coding Challenge - August 19, 2025
+# freeCodeCamp Daily Coding Challenge - August 21, 2025
 
-## Sum of Squares
+## Mile Pace
 
-Given a positive integer up to 1,000, return the sum of all the integers squared from 1 up to the number.
+Given a number of miles ran, and a time in "MM:SS" (minutes:seconds) it took to run those miles, return a string for the average time it took to run each mile in the format "MM:SS".
+
+* Add leading zeros when needed.
 
 ### Tests
-1. `sumOfSquares(5)` should return `55`.
-2. `sumOfSquares(10)` should return `385`.
-3. `sumOfSquares(25)` should return `5525`.
-4. `sumOfSquares(500)` should return `41791750`.
-5. `sumOfSquares(1000)` should return `333833500`.
+1. `milePace(3, "24:00")` should return `"08:00"`.
+2. `milePace(1, "06:45")` should return `"06:45"`.
+3. `milePace(2, "07:00")` should return `"03:30"`.
+4. `milePace(26.2, "120:35")` should return `"04:36"`.
