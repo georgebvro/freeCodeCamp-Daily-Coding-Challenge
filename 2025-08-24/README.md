@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 25, 2025
+# freeCodeCamp Daily Coding Challenge - August 24, 2025
 
 ## Character Battle
 
@@ -9,13 +9,14 @@ Given two strings representing your army and an opposing army, each character fr
 * Digits 0-9 have a strength of their face value.
 * All other characters have a value of zero.
 * Each character can only fight one battle.
-* For each battle, the stronger character wins. The army with more victories, wins the war. Return the following values:
 
-`"Opponent retreated"` if your army has more characters than the opposing army.
-`"We retreated"` if the opposing army has more characters than yours.
-`"We won"` if your army won more battles.
-`"We lost"` if the opposing army won more battles.
-`"It was a tie"` if both armies won the same number of battles.
+For each battle, the stronger character wins. The army with more victories, wins the war. Return the following values:
+
+* `"Opponent retreated"` if your army has more characters than the opposing army.
+* `"We retreated"` if the opposing army has more characters than yours.
+* `"We won"` if your army won more battles.
+* `"We lost"` if the opposing army won more battles.
+* `"It was a tie"` if both armies won the same number of battles.
 
 ### Tests
 1. `battle("Hello", "World")` should return `"We lost"`.
