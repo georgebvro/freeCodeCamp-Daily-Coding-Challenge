@@ -1,14 +1,14 @@
 def burn_candles(candles, leftovers_needed):
     candles_burned = 0
     total_leftovers = 0
-    available_candles = candles;
+    available_candles = candles
 
     while True:
         available_candles += int(total_leftovers / leftovers_needed)
-        leftovers = available_candles;
+        leftovers = available_candles
         leftovers_remained = total_leftovers % leftovers_needed
         total_leftovers = leftovers + leftovers_remained
-        candles_burned += available_candles;
+        candles_burned += available_candles
         available_candles = 0
 
         if total_leftovers < leftovers_needed:

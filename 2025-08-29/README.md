@@ -13,6 +13,7 @@ For example, if given 7 candles and it takes 2 burned candles to make a new one:
 5. Burn 2 candles to get 2 leftovers,
 6. Recycle 2 leftovers into 1 new candle,
 7. Burn 1 candle.
+
 You will have burned 13 total candles in the example.
 
 ### Tests
