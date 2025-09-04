@@ -1,9 +1,9 @@
 def find_duplicates(arr):
     duplicates = []
 
-    for eachValue in arr:
-        if len(list(filter(lambda filteredValue: filteredValue == eachValue, arr))) >= 2:
-            duplicates.append(eachValue)
+    for each_value in arr:
+        if len(list(filter(lambda filtered_value: filtered_value == each_value, arr))) >= 2:
+            duplicates.append(each_value)
     
     return list(dict.fromkeys(sorted(duplicates)))
 
