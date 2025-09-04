@@ -1,39 +1,39 @@
 def generate_hex(color):
-    outputColor = ""
-    maxPossibleValue = 255
+    output_color = ""
+    max_possible_value = 255
 
-    colorObject = {
-    'redComponent':   {'isDominant': None, 'hexCode': None},
-    'greenComponent': {'isDominant': None, 'hexCode': None},
-    'blueComponent':  {'isDominant': None, 'hexCode': None}
+    color_object = {
+    'red_component':   {'is_dominant': None, 'hex_code': None},
+    'green_component': {'is_dominant': None, 'hex_code': None},
+    'blue_component':  {'is_dominant': None, 'hex_code': None}
   }
 
     if color == "red" or color == "green" or color == "blue":
-        colorObject[color + 'Component']['isDominant'] = True
+        color_object[color + '_component']['is_dominant'] = True
     else:
         return "Invalid color"
 
-    for colorComponent in colorObject:
-        if colorObject[colorComponent]['isDominant']:
-            colorObject[colorComponent]['hexCode'] = generate_random_color_code(True, maxPossibleValue)
-            maxPossibleValue = int(colorObject[colorComponent]['hexCode'], 16) - 1
+    for color_component in color_object:
+        if color_object[color_component]['is_dominant']:
+            color_object[color_component]['hex_code'] = generate_random_color_code(True, max_possible_value)
+            max_possible_value = int(color_object[color_component]['hex_code'], 16) - 1
             break
 
-    for colorComponent in colorObject:
-        if not colorObject[colorComponent]['isDominant']:
-            colorObject[colorComponent]['hexCode'] = generate_random_color_code(False, maxPossibleValue)
-        outputColor += colorObject[colorComponent]['hexCode']
+    for color_component in color_object:
+        if not color_object[color_component]['is_dominant']:
+            color_object[color_component]['hex_code'] = generate_random_color_code(False, max_possible_value)
+        output_color += color_object[color_component]['hex_code']
 
-    return outputColor
+    return output_color
 
-def generate_random_color_code(isDominant, maxValue):
+def generate_random_color_code(is_dominant, max_value):
     import random
 
-    minValue = 0
-    if isDominant:
-        minValue = 1
+    min_value = 0
+    if is_dominant:
+        min_value = 1
 
-    return f"{random.randint(minValue, maxValue):02X}"
+    return f"{random.randint(min_value, max_value):02X}"
 
 print(generate_hex("yellow"))
 print(generate_hex("red"))
