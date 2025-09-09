@@ -2,7 +2,7 @@
 
 ## Roman Numeral Parser
 
-Given a string representing a Roman numeral, return its integer value`.
+Given a string representing a Roman numeral, return its integer value.
 
 Roman numerals consist of the following symbols and values:
 
@@ -16,7 +16,7 @@ Roman numerals consist of the following symbols and values:
 | D    |  500|
 | M    | 1000|
 
-* Numerals are read left to right. If a smaller numeral appears before a larger one, the value is subtracted. Otherwise, values are added`.
+* Numerals are read left to right. If a smaller numeral appears before a larger one, the value is subtracted. Otherwise, values are added.
 
 ### Tests
 
