@@ -1,11 +1,27 @@
 # Notepad++ regular expression for replace functionality that prettifies tests in README.md
 
 **Find what:**
-```
-(\d+\. )(\w+\([^)]*\))( should return )([^\.]+)(\.*)$
+```regex
+(?<testNumber>\d+\. )(?<function>\w+\([^)]*\))(?<shouldReturn> should return )(?<returnedValue>[^\.]+)(?<period>\.*)$
 ```
 
 **Replace with:**
+```regex
+$+{testNumber}`$+{function}`$+{shouldReturn}`$+{returnedValue}`$+{period}
 ```
-\1`\2`\3`\4`\5
+
+```re
+(?<testNumber>\d+\. )(?<function>\w+\([^)]*\))(?<shouldReturn> should return )(?<returnedValue>[^\.]+)(?<period>\.*)$
+```
+
+```perl
+(?<testNumber>\d+\. )(?<function>\w+\([^)]*\))(?<shouldReturn> should return )(?<returnedValue>[^\.]+)(?<period>\.*)$
+```
+
+```javascript
+(?<testNumber>\d+\. )(?<function>\w+\([^)]*\))(?<shouldReturn> should return )(?<returnedValue>[^\.]+)(?<period>\.*)$
+```
+
+```js
+(?<testNumber>\d+\. )(?<function>\w+\([^)]*\))(?<shouldReturn> should return )(?<returnedValue>[^\.]+)(?<period>\.*)$
 ```
