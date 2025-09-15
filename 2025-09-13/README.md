@@ -1,6 +1,6 @@
 # freeCodeCamp Daily Coding Challenge - September 15, 2025
 
-## Missng Numbers
+## Missing Numbers
 
 Given an array of integers from 1 to `n`, inclusive, return an array of all the missing integers between 1 and `n` (where `n` is the largest number in the given array).
 
