@@ -1,0 +1,11 @@
+# Notepad++ regular expression for replace functionality that prettifies tests in README.md
+
+**Find what:**
+```
+(\d+\. )(\w+\([^)]*\))( should return )([^\.]+)(\.*)$
+```
+
+**Replace with:**
+```
+\1`\2`\3`\4`\5
+```
