@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 15, 2025
+# freeCodeCamp Daily Coding Challenge - September 13, 2025
 
 ## Missing Numbers
 
