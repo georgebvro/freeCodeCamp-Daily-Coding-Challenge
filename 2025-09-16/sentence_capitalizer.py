@@ -5,7 +5,6 @@ def capitalize(paragraph):
     for i in range(1, len(paragraph)):
         if re.match(r"[.?!]", paragraph[i]):
             for j in range(i + 1, len(paragraph)):
-                print(j, paragraph[j])
                 if re.match(r"[a-zA-Z]", paragraph[j]):
                     paragraph = paragraph[:j] + paragraph[j].upper() + paragraph[j + 1:]
                     break
