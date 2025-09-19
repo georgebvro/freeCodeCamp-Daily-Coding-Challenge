@@ -1,0 +1,10 @@
+function numberOfPhotos(photoSizeMb, hardDriveSizeGb) {
+
+  return Math.floor(hardDriveSizeGb * 1000 / photoSizeMb);
+}
+
+console.log(numberOfPhotos(1, 1));
+console.log(numberOfPhotos(2, 1));
+console.log(numberOfPhotos(4, 256));
+console.log(numberOfPhotos(3.5, 750));
+console.log(numberOfPhotos(3.5, 5.5));
