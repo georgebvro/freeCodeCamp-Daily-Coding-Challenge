@@ -3,7 +3,7 @@ function numberOfVideos(videoSize, videoUnit, driveSize, driveUnit) {
   if (!["B", "KB", "MB", "GB"].includes(videoUnit))
     return "Invalid video unit";
   
-  else if (!/GB|TB/.test(driveUnit))
+  if (!/GB|TB/.test(driveUnit))
     return "Invalid drive unit";
 
   return Math.floor(
