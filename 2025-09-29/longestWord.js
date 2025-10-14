@@ -1,7 +1,7 @@
 function getLongestWord(sentence) {
   const words = sentence
     .replace(".", "")
-    .split(" ")
+    .split(" ");
 
   let longestWord = "";
 
