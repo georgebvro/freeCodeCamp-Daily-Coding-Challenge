@@ -8,7 +8,7 @@ Given an array of numbers and an integer target, find two unique numbers in the 
 
 ### Tests
 
-1. `find_target([2, 7, 11, 15], 9)` should return `[0, 1]`.
-2. `find_target([3, 2, 4, 5], 6)` should return `[1, 2]`.
-3. `find_target([1, 3, 5, 6, 7, 8], 15)` should return `[4, 5]`.
-4. `find_target([1, 3, 5, 7], 14)` should return `'Target not found'`.
+1. `findTarget([2, 7, 11, 15], 9)` should return `[0, 1]`.
+2. `findTarget([3, 2, 4, 5], 6)` should return `[1, 2]`.
+3. `findTarget([1, 3, 5, 6, 7, 8], 15)` should return `[4, 5]`.
+4. `findTarget([1, 3, 5, 7], 14)` should return `'Target not found'`.
