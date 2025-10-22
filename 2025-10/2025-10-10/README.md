@@ -15,8 +15,8 @@ For example, given a payload mass of 50 kg, you would need 10 kg of fuel to lift
 
 ### Tests
 
-1. `launch_fuel(50)` should return `12.4`.
-2. `launch_fuel(500)` should return `124.8`.
-3. `launch_fuel(243)` should return `60.7`.
-4. `launch_fuel(11000)` should return `2749.8`.
-5. `launch_fuel(6214)` should return `1553.4`.
+1. `launchFuel(50)` should return `12.4`.
+2. `launchFuel(500)` should return `124.8`.
+3. `launchFuel(243)` should return `60.7`.
+4. `launchFuel(11000)` should return `2749.8`.
+5. `launchFuel(6214)` should return `1553.4`.
