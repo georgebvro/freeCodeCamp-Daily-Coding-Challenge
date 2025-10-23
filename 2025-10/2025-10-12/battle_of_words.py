@@ -6,10 +6,13 @@ def battle(our_team, opponent):
     opponent_words = opponent.split()
 
     for word_index, _ in enumerate(our_team_words):
-        if word_value(our_team_words[word_index]) > word_value(opponent_words[word_index]):
+        our_team_word_value = word_value(our_team_words[word_index])
+        opponent_word_value = word_value(opponent_words[word_index])
+
+        if our_team_word_value > opponent_word_value:
             our_team_score += 1
 
-        elif word_value(our_team_words[word_index]) < word_value(opponent_words[word_index]):
+        elif our_team_word_value < opponent_word_value:
             opponent_score += 1
 
     return "We win" if our_team_score > opponent_score else "We lose" if our_team_score < opponent_score else "Draw"

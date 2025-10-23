@@ -6,10 +6,13 @@ function battle(ourTeam, opponent) {
   const opponentWords = opponent.split(" ");
 
   for (const wordIndex in ourTeamWords) {
-    if (wordValue(ourTeamWords[wordIndex]) > wordValue(opponentWords[wordIndex]))
+    const ourTeamWordValue = wordValue(ourTeamWords[wordIndex]);
+    const opponentWordValue = wordValue(opponentWords[wordIndex]);
+
+    if (ourTeamWordValue > opponentWordValue)
       ourTeamScore ++;
 
-    else if (wordValue(ourTeamWords[wordIndex]) < wordValue(opponentWords[wordIndex]))
+    else if (ourTeamWordValue < opponentWordValue)
       opponentScore ++;
   }
 
