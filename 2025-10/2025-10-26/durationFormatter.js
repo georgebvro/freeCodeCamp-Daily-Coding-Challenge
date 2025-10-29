@@ -3,8 +3,8 @@ function format(seconds) {
   const mins = Math.floor((seconds - hrs * 3600) / 60);
   const secs = seconds - hrs * 3600 - mins * 60;
 
-  let duration = hrs != 0 ? `${hrs}:` : "";
-  duration += hrs != 0 && mins <= 9 ? `0${mins}:` : `${mins}:`;
+  let duration = hrs !== 0 ? `${hrs}:` : "";
+  duration += hrs !== 0 && mins <= 9 ? `0${mins}:` : `${mins}:`;
   duration += secs <= 9 ? `0${secs}` : `${secs}`;
 
   return duration;
