@@ -7,7 +7,7 @@ function dive(map, coordinates) {
 
   for (const row of updatedMap) 
     for (const location of row) 
-      if (location == "O")
+      if (location === "O")
         return "Found";
         
   return "Recovered";
