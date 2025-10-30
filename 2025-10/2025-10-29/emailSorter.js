@@ -7,13 +7,8 @@ function sort(emails) {
       bUsername = regex.exec(b)[1],
       bDomain = regex.exec(b)[2];
 
-    if (aDomain.localeCompare(bDomain, undefined, { sensitivity: 'base' }) !== 0) {
-      return aDomain.localeCompare(bDomain, undefined, { sensitivity: 'base' });
-    }
-
-    else {
-      return aUsername.localeCompare(bUsername, undefined, { sensitivity: 'base' });
-    }
+    return aDomain.localeCompare(bDomain, undefined, { sensitivity: 'base' }) 
+      || aUsername.localeCompare(bUsername, undefined, { sensitivity: 'base' });
   });
 }
 
