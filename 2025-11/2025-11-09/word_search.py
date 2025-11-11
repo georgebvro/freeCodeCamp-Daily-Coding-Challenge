@@ -6,6 +6,7 @@ def find_word(matrix, word):
 
     for i, row in enumerate(matrix):
         row_letters = "".join(row)
+        
         search_result = regex.search(row_letters)
         if search_result:
             return [[i, search_result.span()[0]], [i, search_result.span()[1] - 1]]
@@ -16,6 +17,7 @@ def find_word(matrix, word):
 
     for j in range(len(matrix[0])):
         column_letters = "".join([row[j] for row in matrix])
+        
         search_result = regex.search(column_letters)
         if search_result:
             return [[search_result.span()[0], j], [search_result.span()[1] - 1, j]]
@@ -23,7 +25,6 @@ def find_word(matrix, word):
         search_result = reversed_regex.search(column_letters)
         if search_result:
             return [[search_result.span()[1] - 1, j], [search_result.span()[0], j]]
-
 
 print(find_word([["a", "c", "t"], ["t", "a", "t"], ["c", "t", "c"]], "cat"))
 print(find_word([["d", "o", "g"], ["o", "g", "d"], ["d", "g", "o"]], "dog"))
