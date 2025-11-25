@@ -1,12 +1,12 @@
 function lcm(a, b) {
-  const bigger_number = Math.max(a, b);
-  const smaller_number = Math.min(a, b);
+  const biggerNumber = Math.max(a, b);
+  const smallerNumber = Math.min(a, b);
   let i = 1;
-  let possibleLcm = bigger_number;
+  let possibleLcm = biggerNumber;
 
-  while (possibleLcm % smaller_number !== 0) {
+  while (possibleLcm % smallerNumber !== 0) {
     i ++;
-    possibleLcm = bigger_number * i;
+    possibleLcm = biggerNumber * i;
   }
 
   return possibleLcm;
