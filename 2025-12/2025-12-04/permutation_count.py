@@ -16,10 +16,10 @@ def factorial(n):
 # --- TEST SUITE ---
 
 tests_text = '''
-Waiting:1. count_permutations("abb") should return 3.
-Waiting:2. count_permutations("abc") should return 6.
-Waiting:3. count_permutations("racecar") should return 630.
-Waiting:4. count_permutations("freecodecamp") should return 39916800.
+1. count_permutations("abb") should return 3.
+2. count_permutations("abc") should return 6.
+3. count_permutations("racecar") should return 630.
+4. count_permutations("freecodecamp") should return 39916800.
 '''
 
 import re

@@ -9,6 +9,8 @@ def scaler(ingredient, scale):
     groups_dict = regex.match(ingredient).groupdict()
     return f"{float(groups_dict['quantity']) * scale:.3g} {groups_dict['unit_and_ingredient']}"
 
+# --- TEST SUITE ---
+
 tests_text = '''
 1. scale_recipe(["2 C Flour", "1.5 T Sugar"], 2) should return ["4 C Flour", "3 T Sugar"].
 2. scale_recipe(["4 T Flour", "1 C Milk", "2 T Oil"], 1.5) should return ["6 T Flour", "1.5 C Milk", "3 T Oil"].

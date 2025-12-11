@@ -3,6 +3,8 @@ def longest_word(sentence):
 
     return sorted(words, key = len, reverse = True)[0]
 
+# --- TEST SUITE ---
+
 import re
 
 tests_text = '''

@@ -8,11 +8,11 @@ function isValidMessage(message, validator) {
 // --- TEST SUITE ---
 
 const testsText = `
-Waiting:1. isValidMessage("hello world", "hw") should return true.
-Waiting:2. isValidMessage("ALL CAPITAL LETTERS", "acl") should return true.
-Waiting:3. isValidMessage("Coding challenge are boring.", "cca") should return false.
-Waiting:4. isValidMessage("The quick brown fox jumps over the lazy dog.", "TQBFJOTLD") should return true.
-Waiting:5. isValidMessage("The quick brown fox jumps over the lazy dog.", "TQBFJOTLDT") should return false.
+1. isValidMessage("hello world", "hw") should return true.
+2. isValidMessage("ALL CAPITAL LETTERS", "acl") should return true.
+3. isValidMessage("Coding challenge are boring.", "cca") should return false.
+4. isValidMessage("The quick brown fox jumps over the lazy dog.", "TQBFJOTLD") should return true.
+5. isValidMessage("The quick brown fox jumps over the lazy dog.", "TQBFJOTLDT") should return false.
 `;
 
 const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<output>.+)\.$/gm;

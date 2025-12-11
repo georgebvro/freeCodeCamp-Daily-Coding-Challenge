@@ -18,6 +18,8 @@ print(convert("  ###  My level 3 heading"))
 print(convert("####### My level 7 heading"))
 print(convert("## My #2 heading"))
 
+# --- TEST SUITE ---
+
 tests_text = '''
 1. convert("# My level 1 heading") should return "<h1>My level 1 heading</h1>".
 2. convert("My heading") should return "Invalid format".

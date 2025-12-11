@@ -1,36 +1,11 @@
-function numberOfVideos(videoSize, videoUnit, driveSize, driveUnit) {
 
-  if (!["B", "KB", "MB", "GB"].includes(videoUnit))
-    return "Invalid video unit";
-  
-  if (!/GB|TB/.test(driveUnit))
-    return "Invalid drive unit";
-
-  return Math.floor(
-    ( driveUnit == "TB" ? driveSize * 1000000000000
-    : driveSize * 1000000000 )
-    /
-    ( videoUnit == "GB" ? videoSize * 1000000000
-    : videoUnit == "MB" ? videoSize * 1000000
-    : videoUnit == "KB" ? videoSize * 1000
-    : videoSize )
-  );
-}
-
-console.log(numberOfVideos(500, "MB", 100, "GB"));
-console.log(numberOfVideos(1, "TB", 10, "TB"));
-console.log(numberOfVideos(2000, "MB", 100000, "MB"));
-console.log(numberOfVideos(500000, "KB", 2, "TB"));
-console.log(numberOfVideos(1.5, "GB", 2.2, "TB"));
 
 // --- TEST SUITE ---
 
 const testsText = `
-1. numberOfVideos(500, "MB", 100, "GB") should return 200.
-2. numberOfVideos(1, "TB", 10, "TB") should return "Invalid video unit".
-3. numberOfVideos(2000, "MB", 100000, "MB") should return "Invalid drive unit".
-4. numberOfVideos(500000, "KB", 2, "TB") should return 4000.
-5. numberOfVideos(1.5, "GB", 2.2, "TB") should return 1466.
+1. functionName(args) should return "result".
+2. functionName(args) should return "result".
+3. functionName(args) should return "result".
 `;
 
 const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<output>.+?)\.?$/gm;

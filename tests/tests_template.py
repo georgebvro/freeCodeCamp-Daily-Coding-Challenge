@@ -1,20 +1,16 @@
-def is_valid_message(message, validation):
 
-    return "".join(word[0] for word in message.lower().split()) == validation.lower()
-
-tests_text = '''
-1. is_valid_message("hello world", "hw") should return True.
-2. is_valid_message("ALL CAPITAL LETTERS", "acl") should return True.
-3. is_valid_message("Coding challenge are boring.", "cca") should return False.
-4. is_valid_message("The quick brown fox jumps over the lazy dog.", "TQBFJOTLD") should return True.
-5. is_valid_message("The quick brown fox jumps over the lazy dog.", "TQBFJOTLDT") should return False.
-'''
 
 # --- TEST SUITE ---
 
+tests_text = '''
+1. function_name(args) should return "result".
+2. function_name(args) should return "result".
+3. function_name(args) should return "result".
+'''
+
 import re
 
-tests_regex = re.compile(r"(?P<number>\d+)\.\s(?P<function_call>.+) should return (?P<output>.+)\.$", re.MULTILINE)
+tests_regex = re.compile(r"(?P<number>\d+)\.\s(?P<function_call>.+) should return (?P<output>.+?)\.?$", re.MULTILINE)
 test_data = [item.groupdict() for item in re.finditer(tests_regex, tests_text)]
 
 def run_tests(test_data):
@@ -43,4 +39,4 @@ def run_tests(test_data):
     else:
         print(f"⚠️ WARNING: {fail_count}/{len(test_data)} tests FAILED.");
 
-run_tests(test_data)    
+run_tests(test_data)

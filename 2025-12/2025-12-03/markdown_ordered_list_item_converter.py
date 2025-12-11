@@ -6,12 +6,12 @@ def convert_list_item(markdown):
 # --- TEST SUITE ---
 
 tests_text = '''
-Waiting:1. convert_list_item("1. My item") should return "<li>My item</li>".
-Waiting:2. convert_list_item(" 1.  Another item") should return "<li>Another item</li>".
-Waiting:3. convert_list_item("1 . invalid item") should return "Invalid format".
-Waiting:4. convert_list_item("2. list item text") should return "<li>list item text</li>".
-Waiting:5. convert_list_item(". invalid again") should return "Invalid format".
-Waiting:6. convert_list_item("A. last invalid") should return "Invalid format".
+1. convert_list_item("1. My item") should return "<li>My item</li>".
+2. convert_list_item(" 1.  Another item") should return "<li>Another item</li>".
+3. convert_list_item("1 . invalid item") should return "Invalid format".
+4. convert_list_item("2. list item text") should return "<li>list item text</li>".
+5. convert_list_item(". invalid again") should return "Invalid format".
+6. convert_list_item("A. last invalid") should return "Invalid format".
 '''
 
 import re

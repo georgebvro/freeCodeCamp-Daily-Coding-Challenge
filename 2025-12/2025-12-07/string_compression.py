@@ -25,10 +25,10 @@ print(compress_string("route route route route route route tee tee tee tee tee t
 # --- TEST SUITE ---
 
 tests_text = '''
-Waiting:1. compress_string("yes yes yes please") should return "yes(3) please".
-Waiting:2. compress_string("I have have have apples") should return "I have(3) apples".
-Waiting:3. compress_string("one one three and to the the the the") should return "one(2) three and to the(4)".
-Waiting:4. compress_string("route route route route route route tee tee tee tee tee tee") should return "route(6) tee(6)".
+1. compress_string("yes yes yes please") should return "yes(3) please".
+2. compress_string("I have have have apples") should return "I have(3) apples".
+3. compress_string("one one three and to the the the the") should return "one(2) three and to the(4)".
+4. compress_string("route route route route route route tee tee tee tee tee tee") should return "route(6) tee(6)".
 '''
 
 import re

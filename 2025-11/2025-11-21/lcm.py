@@ -10,14 +10,16 @@ def lcm(a, b):
 
     return possible_lcm
 
+# --- TEST SUITE ---
+
 import re
 
 tests_text = '''
-Waiting:1. lcm(4, 6) should return 12.
-Waiting:2. lcm(9, 6) should return 18.
-Waiting:3. lcm(10, 100) should return 100.
-Waiting:4. lcm(13, 17) should return 221.
-Waiting:5. lcm(45, 70) should return 630.
+1. lcm(4, 6) should return 12.
+2. lcm(9, 6) should return 18.
+3. lcm(10, 100) should return 100.
+4. lcm(13, 17) should return 221.
+5. lcm(45, 70) should return 630.
 '''
 
 tests_regex = re.compile(r"(?P<number>\d+)\.\s(?P<function_call>.+) should return (?P<output>.+)\.$", re.MULTILINE)

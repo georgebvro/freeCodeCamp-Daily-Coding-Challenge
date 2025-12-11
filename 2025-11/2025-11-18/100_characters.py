@@ -8,6 +8,8 @@ print(one_hundred("freeCodeCamp "))
 print(one_hundred("daily challenges "))
 print(one_hundred("!"))
 
+# --- TEST SUITE ---
+
 tests_text = '''
 1. one_hundred("One hundred ") should return "One hundred One hundred One hundred One hundred One hundred One hundred One hundred One hundred One ".
 2. one_hundred("freeCodeCamp ") should return "freeCodeCamp freeCodeCamp freeCodeCamp freeCodeCamp freeCodeCamp freeCodeCamp freeCodeCamp freeCodeC".
@@ -16,15 +18,17 @@ tests_text = '''
 '''
 
 import re
-regex = re.compile(r"(?P<number>\d+)\.\s(?P<function_call>.+) should return (?P<output>.+)\.$", re.MULTILINE)
-test_data = [item.groupdict() for item in re.finditer(regex, tests_text)]
+
+tests_regex = re.compile(r"(?P<number>\d+)\.\s(?P<function_call>.+) should return (?P<output>.+?)\.?$", re.MULTILINE)
+test_data = [item.groupdict() for item in re.finditer(tests_regex, tests_text)]
 
 def run_tests(test_data):
-    print("---------------------------")
+    print("--------------------------")
     print("🧪 Starting Verification...")
-    print("---------------------------")
+    print("--------------------------")
 
     all_passed = True
+    fail_count = 0
 
     for test in test_data:
         function_call_output = eval(test['function_call'])
@@ -35,12 +39,13 @@ def run_tests(test_data):
         else:
             print(f"{test['number']}.❌ FAIL - Function Call:\n{test['function_call']}\nExpected:\n{test_output}\nGot:\n{function_call_output}")
             all_passed = False
+            fail_count += 1
 
     print("----------------------------");
 
     if (all_passed):
         print("🎉 SUCCESS: All tests PASSED.");
     else:
-        print("⚠️ WARNING: Some tests FAILED.");
+        print(f"⚠️ WARNING: {fail_count}/{len(test_data)} tests FAILED.");
 
 run_tests(test_data)

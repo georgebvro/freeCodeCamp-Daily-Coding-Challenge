@@ -11,10 +11,10 @@ print(build_matrix(9, 1))
 # --- TEST SUITE ---
 
 tests_text = '''
-Waiting:1. build_matrix(2, 3) should return [[0, 0, 0], [0, 0, 0]].
-Waiting:2. build_matrix(3, 2) should return [[0, 0], [0, 0], [0, 0]].
-Waiting:3. build_matrix(4, 3) should return [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]].
-Waiting:4. build_matrix(9, 1) should return [[0], [0], [0], [0], [0], [0], [0], [0], [0]].
+1. build_matrix(2, 3) should return [[0, 0, 0], [0, 0, 0]].
+2. build_matrix(3, 2) should return [[0, 0], [0, 0], [0, 0]].
+3. build_matrix(4, 3) should return [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]].
+4. build_matrix(9, 1) should return [[0], [0], [0], [0], [0], [0], [0], [0], [0]].
 '''
 
 import re
