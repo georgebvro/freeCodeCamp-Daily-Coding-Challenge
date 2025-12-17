@@ -3,9 +3,10 @@
 // --- TEST SUITE ---
 
 const testsText = `
-1. functionName(args) should return "result".
-2. functionName(args) should return "result".
-3. functionName(args) should return "result".
+1. gameOfLife([[0, 1, 0], [0, 1, 1], [1, 1, 0]]) should return [[0, 1, 1], [0, 0, 1], [1, 1, 1]].
+2. gameOfLife([[1, 1, 0, 0], [1, 0, 1, 0], [0, 1, 1, 1], [0, 0, 1, 0]]) should return [[1, 1, 0, 0], [1, 0, 0, 1], [0, 0, 0, 1], [0, 1, 1, 1]].
+3. gameOfLife([[1, 0, 0], [0, 1, 0], [0, 0, 1]]) should return [[0, 0, 0], [0, 1, 0], [0, 0, 0]].
+4. gameOfLife([[0, 1, 1, 0], [1, 1, 0, 1], [0, 1, 1, 0], [0, 0, 1, 0]]) should return [[1, 1, 1, 0], [1, 0, 0, 1], [1, 0, 0, 1], [0, 1, 1, 0]].
 `;
 
 const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<output>.+?)\.?$/gm;
@@ -51,17 +52,17 @@ function arraysEqual(a, b) {
   if (a.length !== b.length)
     return false;
 
-  for (const index in a) {
-    if (Array.isArray(a[index])) {
-      if (Array.isArray(b[index])) {
-        if (!arraysEqual(a[index], b[index]))
+  for (let i = 0; i < a.length; ++i) {
+    if (Array.isArray(a[i])) {
+      if (Array.isArray(b[i])) {
+        if (!arraysEqual(a[i], b[i]))
           return false;
       }
       else 
         return false;
     }
 
-    else if (a[index] !== b[index])
+    else if (a[i] !== b[i])
       return false;
   }
 
