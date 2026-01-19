@@ -2,7 +2,7 @@
 
 # --- TEST SUITE ---
 
-tests_text = '''
+tests_text = r'''
 1. function_name(args) should return "result".
 2. function_name(args) should return "result".
 3. function_name(args) should return "result".
@@ -18,7 +18,6 @@ def run_tests(test_data):
     print("🧪 Starting Verification...")
     print("--------------------------")
 
-    all_passed = True
     fail_count = 0
 
     for test in test_data:
@@ -29,14 +28,11 @@ def run_tests(test_data):
             print(f"{test['number']}.✅ PASS - Function Call:\n{test['function_call']}")
         else:
             print(f"{test['number']}.❌ FAIL - Function Call:\n{test['function_call']}\nExpected:\n{test_output}\nGot:\n{function_call_output}")
-            all_passed = False
             fail_count += 1
 
-    print("----------------------------");
-
-    if (all_passed):
-        print("🎉 SUCCESS: All tests PASSED.");
-    else:
-        print(f"⚠️ WARNING: {fail_count}/{len(test_data)} tests FAILED.");
+    print("----------------------------",
+        f"\n⚠️ WARNING: {fail_count}/{len(test_data)} tests FAILED." if fail_count
+        else "\n🎉 SUCCESS: All tests PASSED."
+    )
 
 run_tests(test_data)

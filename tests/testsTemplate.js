@@ -2,7 +2,7 @@
 
 // --- TEST SUITE ---
 
-const testsText = `
+const testsText = String.raw`
 1. functionName(args) should return "result".
 2. functionName(args) should return "result".
 3. functionName(args) should return "result".
@@ -16,35 +16,30 @@ function runTests(testData) {
   console.log("🧪Starting Verification...");
   console.log("--------------------------");
 
-  let allPassed = true;
   let failCount = 0;
   
   testData.forEach(test => {
     const functionCallOutput = eval(test.functionCall);
     const testOutput = eval(test.output);
-    let comparison;
 
-    if (Array.isArray(testOutput))
-      comparison = arraysEqual(functionCallOutput, testOutput);
-    else
-      comparison = functionCallOutput === testOutput;
+    const comparison = Array.isArray(testOutput)
+      ? arraysEqual(functionCallOutput, testOutput)
+      : functionCallOutput === testOutput;
 
     if (comparison) {
       console.log(`${test.number}.✅PASS - Function Call: ${test.functionCall}`);
     }
     else {
       console.log(`${test.number}.❌FAIL - Function Call: ${test.functionCall}\nExpected: ${testOutput}\nGot: ${functionCallOutput}`);
-      allPassed = false;
-      failCount ++;
+      ++failCount;
     }
   })
 
-  console.log("----------------------------");
-
-  if (allPassed)
-    console.log("🎉SUCCESS: All tests PASSED.");
-  else
-    console.log(`⚠️WARNING: ${failCount}/${testData.length} tests FAILED.`);
+  console.log("----------------------------",
+    failCount
+    ? `\n⚠️WARNING: ${failCount}/${testData.length} tests FAILED.`
+    : "\n🎉SUCCESS: All tests PASSED."
+  );
 }
 
 function arraysEqual(a, b) {
