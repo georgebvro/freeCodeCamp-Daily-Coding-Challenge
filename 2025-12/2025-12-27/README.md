@@ -11,7 +11,7 @@ Given two strings, the first representing Player 1 and the second representing P
 
 Return:
 * `"Player 1 wins"` if Player 1 wins.
-* `"Player 2` wins" if Player 2 wins.
+* `"Player 2 wins"` if Player 2 wins.
 * `"Tie"` if both players choose the same option.
 
 ### Tests
