@@ -11,8 +11,8 @@ Given the numbers of gallons of fuel currently in your airplane, and the require
 
 ### Tests
 
-1. `fuel_to_add(0, 1)` should return `1`.
-2. `fuel_to_add(5, 40)` should return `6`.
-3. `fuel_to_add(10, 30)` should return `0`.
-4. `fuel_to_add(896, 20500)` should return `4520`.
-5. `fuel_to_add(1000, 50000)` should return `12209`.
+1. `fuelToAdd(0, 1)` should return `1`.
+2. `fuelToAdd(5, 40)` should return `6`.
+3. `fuelToAdd(10, 30)` should return `0`.
+4. `fuelToAdd(896, 20500)` should return `4520`.
+5. `fuelToAdd(1000, 50000)` should return `12209`.
