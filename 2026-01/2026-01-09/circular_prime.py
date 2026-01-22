@@ -1,16 +1,14 @@
 def is_circular_prime(n):
     s = str(n)
-    is_circular_prime = True
 
     for i in range(len(s)):
         rotation = int(s[i:] + s[0:i])
 
         for maybe_factor in range(2, rotation // 2 + 1):
             if rotation % maybe_factor == 0:
-                is_circular_prime = False
-                break
+                return False
 
-    return is_circular_prime
+    return True
 
 # --- TEST SUITE ---
 

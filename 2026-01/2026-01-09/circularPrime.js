@@ -1,19 +1,15 @@
 function isCircularPrime(n) {
   const s = String(n);
-  let isCircularPrime = true;
 
   for (let i = 0; i < s.length; ++i) {
     const rotation = s.slice(i) + s.slice(0, i);
     
-    for (let maybeFactor = 2; maybeFactor <= rotation / 2; ++maybeFactor) {
-      if (rotation % maybeFactor === 0) {
-        isCircularPrime = false;
-        break;
-      }
-    }
+    for (let maybeFactor = 2; maybeFactor <= rotation / 2; ++maybeFactor)
+      if (rotation % maybeFactor === 0)
+        return false;
   }
 
-  return isCircularPrime;
+  return true;
 }
 
 // --- TEST SUITE ---
