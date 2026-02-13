@@ -91,7 +91,7 @@ function getFlag(code) {
     ["UY", "🇺🇾"],
     ["UZ", "🇺🇿"],
     ["VE", "🇻🇪"]
-  ])
+  ]);
 
   return countryFlags.get(code);
 }
