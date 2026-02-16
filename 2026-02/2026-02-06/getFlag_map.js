@@ -1,3 +1,5 @@
+// Solution using Map()
+
 function getFlag(code) {
   const countryFlags = new Map([
     ["AL", "🇦🇱"],
