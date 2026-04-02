@@ -10,8 +10,8 @@ Given a 2D array representing a sequence of dominoes, determine whether it forms
 
 ### Tests:
 
-1. `is_valid_domino_chain([[1, 3], [3, 6], [6, 5]])` should return `True`.
-2. `is_valid_domino_chain([[6, 2], [3, 4], [4, 1]])` should return `False`.
-3. `is_valid_domino_chain([[2, 5], [5, 6], [5, 1]])` should return `False`.
-4. `is_valid_domino_chain([[4, 3], [3, 1], [1, 6], [6, 6], [6, 5], [5, 1], [1, 1], [1, 4], [4, 4], [4, 2]])` should return `True`.
-5. `is_valid_domino_chain([[2, 3], [3, 3], [3, 6], [6, 1], [1, 4], [3, 5], [5, 5], [5, 4], [4, 2], [2, 2]])` should return `False`.
+1. `isValidDominoChain([[1, 3], [3, 6], [6, 5]])` should return `true`.
+2. `isValidDominoChain([[6, 2], [3, 4], [4, 1]])` should return `false`.
+3. `isValidDominoChain([[2, 5], [5, 6], [5, 1]])` should return `false`.
+4. `isValidDominoChain([[4, 3], [3, 1], [1, 6], [6, 6], [6, 5], [5, 1], [1, 1], [1, 4], [4, 4], [4, 2]])` should return `true`.
+5. `isValidDominoChain([[2, 3], [3, 3], [3, 6], [6, 1], [1, 4], [3, 5], [5, 5], [5, 4], [4, 2], [2, 2]])` should return `false`.
