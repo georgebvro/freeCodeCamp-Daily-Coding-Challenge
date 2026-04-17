@@ -27,7 +27,7 @@ function getMovieNightCost(day, showtime, numberOfTickets) {
     ]
   };
 
-  const { hour, minute, meridiem } = /(?<hour>^\d{1,2}):(?<minute>\d{2})(?<meridiem>am|pm)$/.exec(showtime).groups;
+  const { hour, minute, meridiem } = /^(?<hour>\d{1,2}):(?<minute>\d{2})(?<meridiem>am|pm)$/.exec(showtime).groups;
   let timeRfc_9557 = "";
 
   if (meridiem === "am")
@@ -39,14 +39,14 @@ function getMovieNightCost(day, showtime, numberOfTickets) {
   timeRfc_9557 += `:${minute}`;
 
   const rule = PRICING_CONFIG.baseRules.find(rule => rule.condition(day));
-  let ticket_price = rule.price;
+  let ticketPrice = rule.price;
 
   if (!rule.fixedPrice)
     PRICING_CONFIG.modifiers.forEach(modifier => {
-      ticket_price = modifier.condition(timeRfc_9557) ? modifier.adjustPrice(ticket_price) : ticket_price;
+      ticketPrice = modifier.condition(timeRfc_9557) ? modifier.adjustPrice(ticketPrice) : ticketPrice;
     });
 
-  return `$${parseFloat(ticket_price * numberOfTickets).toFixed(2)}`;
+  return `$${parseFloat(ticketPrice * numberOfTickets).toFixed(2)}`;
 }
 
 // --- TEST SUITE ---

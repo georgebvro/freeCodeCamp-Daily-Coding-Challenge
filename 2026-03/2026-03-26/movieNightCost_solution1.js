@@ -17,9 +17,9 @@ function getMovieNightCost(day, showtime, numberOfTickets) {
       fixedPrice: 5
     }
   };
-  const { hour, minute, meridiem } = /(?<hour>^\d{1,2}):(?<minute>\d{2})(?<meridiem>am|pm)$/.exec(showtime).groups;
+  const { hour, minute, meridiem } = /^(?<hour>\d{1,2}):(?<minute>\d{2})(?<meridiem>am|pm)$/.exec(showtime).groups;
   let timeRfc_9557 = "";
-  let ticket_price;
+  let ticketPrice;
 
   if (meridiem === "am")
     timeRfc_9557 += hour === "12" ? "00" : hour.padStart(2, "0");
@@ -37,18 +37,18 @@ function getMovieNightCost(day, showtime, numberOfTickets) {
   const matineeTimeDifference = showtimeObject.until(PRICING_RULES.matinee.timeThreshold);
 
   if (PRICING_RULES.weekend.days.includes(day))
-    ticket_price = PRICING_RULES.weekend.basePrice;
+    ticketPrice = PRICING_RULES.weekend.basePrice;
 
   if (PRICING_RULES.weekday.days.includes(day))
-    ticket_price = PRICING_RULES.weekday.basePrice;
+    ticketPrice = PRICING_RULES.weekday.basePrice;
 
   console.log(matineeTimeDifference.hours, matineeTimeDifference.minutes)
 
   if (matineeTimeDifference.hours > 0 || matineeTimeDifference.hours === 0 && matineeTimeDifference.minutes > 0) {
-    ticket_price -= PRICING_RULES.matinee.priceDeduction;
+    ticketPrice -= PRICING_RULES.matinee.priceDeduction;
   }
 
-  return `$${parseFloat(ticket_price * numberOfTickets).toFixed(2)}`;
+  return `$${parseFloat(ticketPrice * numberOfTickets).toFixed(2)}`;
 }
 
 // --- TEST SUITE ---
