@@ -1,4 +1,4 @@
-// Solution that calculates only half of the elements in the triangle and for the second half it concatenates the reverse of the first half
+// Solution that calculates only half of the elements of a row in the triangle and for the second half it concatenates the reverse of the first half
 function pascalRow(n) {
   let previousRow = [1];
 
