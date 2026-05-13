@@ -12,9 +12,9 @@ const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<outpu
 const testData = [...testsText.matchAll(testsRegex).map(match => match.groups)];
 
 function runTests(testData) {
-  console.log("--------------------------");
-  console.log("🧪Starting Verification...");
-  console.log("--------------------------");
+  console.log("——————————————————————————",
+            "\n🧪Starting Verification...",
+            "\n——————————————————————————");
 
   let failCount = 0;
   
@@ -28,36 +28,34 @@ function runTests(testData) {
 
     if (comparison) {
       console.log(`${test.number}.✅PASS - Function Call: ${test.functionCall}`);
-    }
-    else {
+    } else {
       console.log(`${test.number}.❌FAIL - Function Call: ${test.functionCall}\nExpected: ${testOutput}\nGot: ${functionCallOutput}`);
       ++failCount;
     }
+    console.log("————————————————————————————");
   })
 
-  console.log("----------------------------",
-    failCount
-    ? `\n⚠️WARNING: ${failCount}/${testData.length} tests FAILED.`
-    : "\n🎉SUCCESS: All tests PASSED."
+  console.log(failCount
+    ? `⚠️WARNING: ${failCount}/${testData.length} tests FAILED.`
+    : "🎉SUCCESS: All tests PASSED."
   );
 }
 
 function arraysEqual(a, b) {
-  if (a.length !== b.length)
-    return false;
+  if (a.length !== b.length) return false;
 
   for (let i = 0; i < a.length; ++i) {
     if (Array.isArray(a[i])) {
       if (Array.isArray(b[i])) {
-        if (!arraysEqual(a[i], b[i]))
+        if (!arraysEqual(a[i], b[i])) {
           return false;
-      }
-      else 
+        }
+      } else {
         return false;
-    }
-
-    else if (a[i] !== b[i])
+      }
+    } else if (a[i] !== b[i]) {
       return false;
+    }
   }
 
   return true;
