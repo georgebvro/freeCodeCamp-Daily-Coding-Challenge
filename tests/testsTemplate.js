@@ -3,10 +3,9 @@
 // --- TEST SUITE ---
 
 const testsText = String.raw`
-1. parseUrlQuery("https://example.com/search?name=Alice&age=30") should return {"name": "Alice", "age": "30"}
-2. parseUrlQuery("https://freecodecamp.org/learn?skill=programming&language=python") should return {"skill": "programming", "language": "python"}
-3. parseUrlQuery("https://freecodecamp.org/items?category=books&sort=asc&page=2") should return {"category": "books", "sort": "asc", "page": "2"}
-4. parseUrlQuery("https://example.com?redirect=freecodecamp.org/learn&when=now") should return {"redirect": "freecodecamp.org/learn", "when": "now"}
+1. functionName(args) should return "result".
+2. functionName(args) should return "result".
+3. functionName(args) should return "result".
 `;
 
 const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<output>.+?)\.?$/gm;
