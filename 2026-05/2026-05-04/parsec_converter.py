@@ -1,13 +1,13 @@
 def convert_parsecs(parsecs):
     PARSECS_CONVERSION_RATES = {
         'time': { 'parsecs': 1, 'hours': 2 },
-        'distance': { 'parsecs': 2, 'lightYears': 6 }
+        'distance': { 'parsecs': 2, 'light_years': 6 }
     }
 
     return \
         parsecs / PARSECS_CONVERSION_RATES['time']['parsecs'] * PARSECS_CONVERSION_RATES['time']['hours'] \
         if parsecs % 2 else \
-        parsecs / PARSECS_CONVERSION_RATES['distance']['parsecs'] * PARSECS_CONVERSION_RATES['distance']['lightYears']
+        parsecs / PARSECS_CONVERSION_RATES['distance']['parsecs'] * PARSECS_CONVERSION_RATES['distance']['light_years']
 
 # --- TEST SUITE ---
 
