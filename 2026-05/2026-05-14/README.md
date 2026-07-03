@@ -11,6 +11,7 @@ A mirror image is formed by reversing the string and replacing each character wi
 `W`, `T`, `Y`, `U`, `I`, `O`, `H`, `A`, `X`, `V`, `M`, `w`, `o`, `x`, `v`, `0`, `8`, `=`, `+`, `:`, `|`, `-`, `_`, `*`, `^`, `!`, `.`, and the space (` `).
 
 * Mirrored pairs swap with each other in a mirror:
+
 |Character|Swaps with|
 |:-------:|:--------:|
 |   `[`   |    `]`   |
