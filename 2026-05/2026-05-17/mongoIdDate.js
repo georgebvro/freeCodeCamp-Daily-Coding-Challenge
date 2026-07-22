@@ -1,0 +1,48 @@
+function mongoIdToDate(id) {
+
+  return Temporal.Instant
+    .fromEpochMilliseconds(parseInt(id.slice(0, 8), 16) * 1000)
+    .toString({ fractionalSecondDigits: 3 });
+}
+
+// --- TEST SUITE ---
+
+const testsText = String.raw`
+1. mongoIdToDate("6a094b50bcf86cd799439011") should return "2026-05-17T05:00:00.000Z".
+2. mongoIdToDate("695344eb1f4a4c1123042128") should return "2025-12-30T03:20:11.000Z".
+3. mongoIdToDate("386da62df34123ac54617e56") should return "2000-01-01T07:01:01.000Z".
+4. mongoIdToDate("69f571c3d7711807afd3dd55") should return "2026-05-02T03:38:43.000Z".
+5. mongoIdToDate("68adce01c0e1144d0a90295a") should return "2025-08-26T15:08:49.000Z".
+`;
+
+const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<output>.+?)\.?$/gm;
+const testData = [...testsText.matchAll(testsRegex).map(match => match.groups)];
+
+function runTests(testData) {
+  console.log("——————————————————————————",
+            "\n🧪Starting Verification...",
+            "\n——————————————————————————");
+
+  let failCount = 0;
+  
+  testData.forEach(test => {
+    const functionCallOutput = eval(test.functionCall);
+    const testOutput = eval(`(${test.output})`);
+
+    if (JSON.stringify(functionCallOutput) === JSON.stringify(testOutput)) {
+      console.log(`${test.number}.✅PASS - Function Call: ${test.functionCall}`);
+    } else {
+      console.log(`${test.number}.❌FAIL - Function Call: ${test.functionCall}\nExpected: ${JSON.stringify(testOutput)}\nGot: ${JSON.stringify(functionCallOutput)}`);
+
+      ++failCount;
+    }
+    console.log("————————————————————————————");
+  })
+
+  console.log(failCount
+    ? `⚠️WARNING: ${failCount}/${testData.length} tests FAILED.`
+    : "🎉SUCCESS: All tests PASSED."
+  );
+}
+
+runTests(testData);
