@@ -9,9 +9,9 @@ def get_pizzas_to_order(hours_worked):
     def total_slice_count (total, hours):
         person_s_slice_count = math.ceil(hours / HOURS_WORKED_PER_SLICE)
 
-        return total + (2 if person_s_slice_count < 2 else person_s_slice_count)
+        return total + (MINIMUM_SLICES_PER_PERSON if person_s_slice_count < MINIMUM_SLICES_PER_PERSON else person_s_slice_count)
 
-    return math.ceil(reduce(total_slice_count, hours_worked, 0) / 8)
+    return math.ceil(reduce(total_slice_count, hours_worked, 0) / SLICES_PER_PIZZA)
 
 # --- TEST SUITE ---
 
