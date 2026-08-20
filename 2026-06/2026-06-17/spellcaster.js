@@ -1,22 +1,22 @@
 function cast(spells) {
-  const SPELLS = {
-    "f": { spell: "Fire", category: "Destruction", score: 3},
-    "l": { spell: "Lightning", category: "Destruction", score: 3},
-    "i": { spell: "Ice", category: "Control", score: 2},
-    "w": { spell: "Wind", category: "Control", score: 2},
-    "h": { spell: "Heal", category: "Restoration", score: 1},
-    "s": { spell: "Shield", category: "Restoration", score: 1}
+  const SPELL_CONFIG = {
+    "f": { spell: "Fire", category: "Destruction", score: 3 },
+    "l": { spell: "Lightning", category: "Destruction", score: 3 },
+    "i": { spell: "Ice", category: "Control", score: 2 },
+    "w": { spell: "Wind", category: "Control", score: 2 },
+    "h": { spell: "Heal", category: "Restoration", score: 1 },
+    "s": { spell: "Shield", category: "Restoration", score: 1 }
   };
   let multiplier;
 
   return spells
     .split("")
     .reduce((acc, spellCode, index, source) => {
-      multiplier = index > 0 && SPELLS[spellCode]['category'] !== SPELLS[source[index - 1]]['category'] 
+      multiplier = index > 0 && SPELL_CONFIG[spellCode]['category'] !== SPELL_CONFIG[source[index - 1]]['category'] 
         ? multiplier + 1 
         : 1;
         
-      return acc + SPELLS[spellCode]['score'] * multiplier;
+      return acc + SPELL_CONFIG[spellCode]['score'] * multiplier;
     }, 0);
 }
 
