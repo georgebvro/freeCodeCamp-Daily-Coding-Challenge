@@ -5,7 +5,6 @@ function kaprekar(n) {
     const digitsArray = String(n).split("");
     const largestNumber = digitsArray.sort((a, b) => b - a).join("");
     const smallestNumber = digitsArray.sort().join("");
-    console.log(largestNumber, smallestNumber)
     n = largestNumber - smallestNumber;
     ++count;
   }
