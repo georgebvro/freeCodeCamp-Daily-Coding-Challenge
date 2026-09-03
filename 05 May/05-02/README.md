@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 2, 2026
+# freeCodeCamp Daily Coding Challenge - May 2
 
 ## Deepest Brackets
 Given a string containing balanced brackets, return the content of the deepest nested brackets.

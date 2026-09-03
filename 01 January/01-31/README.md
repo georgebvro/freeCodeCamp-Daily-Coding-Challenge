@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 31, 2026
+# freeCodeCamp Daily Coding Challenge - January 31
 
 ## Zodiac Finder
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 5, 2025
+# freeCodeCamp Daily Coding Challenge - September 5
 
 ## IPv4 Validator
 

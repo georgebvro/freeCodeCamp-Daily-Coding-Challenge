@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 7, 2026
+# freeCodeCamp Daily Coding Challenge - February 7
 
 ## 2026 Winter Games Day 2: Snowboarding
 

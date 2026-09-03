@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 5, 2026
+# freeCodeCamp Daily Coding Challenge - February 5
 
 ## Pocket Change
 

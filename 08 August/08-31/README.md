@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 31, 2025
+# freeCodeCamp Daily Coding Challenge - August 31
 
 ## Hex Generator
 

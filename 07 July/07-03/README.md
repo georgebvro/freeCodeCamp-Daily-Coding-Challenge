@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 3, 2026
+# freeCodeCamp Daily Coding Challenge - July 3
 
 ## Database Migration
 

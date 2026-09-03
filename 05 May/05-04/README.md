@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 4, 2026
+# freeCodeCamp Daily Coding Challenge - May 4
 
 ## Parsec Converter
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 16, 2026
+# freeCodeCamp Daily Coding Challenge - March 16
 
 ## Evenly Divisible
 

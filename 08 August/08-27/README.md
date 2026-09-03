@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 27, 2025
+# freeCodeCamp Daily Coding Challenge - August 27
 
 ## Unorder of Operations
 

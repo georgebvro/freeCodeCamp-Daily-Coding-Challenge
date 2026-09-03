@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 3, 2026
+# freeCodeCamp Daily Coding Challenge - January 3
 
 ## Left-Handed Seat at the Table
 

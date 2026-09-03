@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 12, 2025
+# freeCodeCamp Daily Coding Challenge - September 12
 
 ## Screen Time
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 19, 2026
+# freeCodeCamp Daily Coding Challenge - March 19
 
 ## Inverted Matrix
 

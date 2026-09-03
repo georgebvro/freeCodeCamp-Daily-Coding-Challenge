@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 2, 2025
+# freeCodeCamp Daily Coding Challenge - October 2
 
 ## Decimal to Binary
 

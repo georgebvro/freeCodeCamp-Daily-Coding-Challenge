@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 26, 2025
+# freeCodeCamp Daily Coding Challenge - November 26
 
 ## BuzzFizz
 

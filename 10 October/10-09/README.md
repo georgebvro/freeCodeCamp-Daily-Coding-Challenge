@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 9, 2025
+# freeCodeCamp Daily Coding Challenge - October 9
 
 ## Space Week Day 6: Moon Phase
 

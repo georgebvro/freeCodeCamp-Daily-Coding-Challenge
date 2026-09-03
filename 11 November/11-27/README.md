@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 27, 2025
+# freeCodeCamp Daily Coding Challenge - November 27
 
 ## What's My Age Again?
 

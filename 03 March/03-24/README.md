@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 24, 2026
+# freeCodeCamp Daily Coding Challenge - March 24
 
 ## Passing Exam Count
 

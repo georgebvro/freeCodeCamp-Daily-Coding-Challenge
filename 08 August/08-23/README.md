@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 23, 2025
+# freeCodeCamp Daily Coding Challenge - August 23
 
 ## Unnatural Prime
 

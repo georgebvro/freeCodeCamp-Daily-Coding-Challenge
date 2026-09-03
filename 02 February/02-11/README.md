@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 11, 2026
+# freeCodeCamp Daily Coding Challenge - February 11
 
 ## 2026 Winter Games Day 6: Figure Skating
 

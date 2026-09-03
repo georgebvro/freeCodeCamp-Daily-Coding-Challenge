@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 20, 2025
+# freeCodeCamp Daily Coding Challenge - August 20
 
 ## 3 Strikes
 

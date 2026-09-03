@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 7, 2026
+# freeCodeCamp Daily Coding Challenge - May 7
 
 ## Longest Common Substring
 

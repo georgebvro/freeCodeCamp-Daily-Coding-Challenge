@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 16, 2025
+# freeCodeCamp Daily Coding Challenge - August 16
 
 ## Anagram Checker
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 28, 2026
+# freeCodeCamp Daily Coding Challenge - March 28
 
 ## Pascal's Triangle Row
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 3, 2026
+# freeCodeCamp Daily Coding Challenge - May 3
 
 ## Good Day
 

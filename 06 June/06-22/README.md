@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 22, 2026
+# freeCodeCamp Daily Coding Challenge - June 22
 
 ## 1337 Speak
 

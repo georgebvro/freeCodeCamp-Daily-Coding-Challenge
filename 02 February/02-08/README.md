@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 8, 2026
+# freeCodeCamp Daily Coding Challenge - February 8
 
 ## 2026 Winter Games Day 3: Biathlon
 

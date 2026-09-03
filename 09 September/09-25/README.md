@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 25, 2025
+# freeCodeCamp Daily Coding Challenge - September 25
 
 ## 2nd Largest
 

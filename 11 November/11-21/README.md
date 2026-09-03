@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 21, 2025
+# freeCodeCamp Daily Coding Challenge - November 21
 
 ## LCM
 

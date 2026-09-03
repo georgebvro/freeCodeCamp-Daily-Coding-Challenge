@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 29, 2025
+# freeCodeCamp Daily Coding Challenge - October 29
 
 ## Email Sorter
 

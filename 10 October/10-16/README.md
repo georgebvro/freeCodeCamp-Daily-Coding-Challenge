@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 16, 2025
+# freeCodeCamp Daily Coding Challenge - October 16
 
 ## Email Validator
 

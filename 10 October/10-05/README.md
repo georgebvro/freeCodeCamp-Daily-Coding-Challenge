@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 5, 2025
+# freeCodeCamp Daily Coding Challenge - October 5
 
 ## Space Week Day 2: Exoplanet Search
 

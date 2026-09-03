@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 7, 2025
+# freeCodeCamp Daily Coding Challenge - October 7
 
 ## Space Week Day 4: Landing Spot
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 18, 2026
+# freeCodeCamp Daily Coding Challenge - January 18
 
 ## Free Shipping
 

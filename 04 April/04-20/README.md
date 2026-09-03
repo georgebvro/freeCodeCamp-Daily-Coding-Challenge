@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 20, 2026
+# freeCodeCamp Daily Coding Challenge - April 20
 
 ## Acronym Finder
 

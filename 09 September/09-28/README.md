@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 28, 2025
+# freeCodeCamp Daily Coding Challenge - September 28
 
 ## CSV Header Parser
 

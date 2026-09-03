@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 25, 2026
+# freeCodeCamp Daily Coding Challenge - April 25
 
 ## Word Decompressor
 

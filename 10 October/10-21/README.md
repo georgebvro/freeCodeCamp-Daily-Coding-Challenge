@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 21, 2025
+# freeCodeCamp Daily Coding Challenge - October 21
 
 ## Thermostat Adjuster 2
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 11, 2025
+# freeCodeCamp Daily Coding Challenge - October 11
 
 ## Hex to Decimal
 

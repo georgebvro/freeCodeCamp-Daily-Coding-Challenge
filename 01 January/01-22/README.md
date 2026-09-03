@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 22, 2026
+# freeCodeCamp Daily Coding Challenge - January 22
 
 ## Class Average
 

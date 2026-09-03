@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 12, 2025
+# freeCodeCamp Daily Coding Challenge - August 12
 
 ## Base Check
 

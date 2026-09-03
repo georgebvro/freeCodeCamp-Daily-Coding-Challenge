@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 7, 2026
+# freeCodeCamp Daily Coding Challenge - June 7
 
 ## Last Load
 

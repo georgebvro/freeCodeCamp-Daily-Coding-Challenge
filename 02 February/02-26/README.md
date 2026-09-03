@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 26, 2026
+# freeCodeCamp Daily Coding Challenge - February 26
 
 ## Letter and Number Count
 

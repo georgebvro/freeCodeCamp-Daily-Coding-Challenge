@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 2, 2026
+# freeCodeCamp Daily Coding Challenge - March 2
 
 ## Sum the Letters
 

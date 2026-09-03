@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 24, 2026
+# freeCodeCamp Daily Coding Challenge - June 24
 
 ## DNA Mutations
 Given two DNA strands of equal length, return an array of indexes where the strands differ (mutations).

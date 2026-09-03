@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 12, 2026
+# freeCodeCamp Daily Coding Challenge - March 12
 
 ## Domino Chain Validator
 

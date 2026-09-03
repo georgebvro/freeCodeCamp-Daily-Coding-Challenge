@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 11, 2026
+# freeCodeCamp Daily Coding Challenge - June 11
 
 ## Idea Rankings
 

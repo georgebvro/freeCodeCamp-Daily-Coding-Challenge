@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 12, 2026
+# freeCodeCamp Daily Coding Challenge - May 12
 
 ## Character Frequency
 

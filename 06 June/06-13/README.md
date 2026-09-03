@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 13, 2026
+# freeCodeCamp Daily Coding Challenge - June 13
 
 ## Zoning Regulations
 

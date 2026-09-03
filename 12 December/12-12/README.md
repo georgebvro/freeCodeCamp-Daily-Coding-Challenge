@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 12, 2025
+# freeCodeCamp Daily Coding Challenge - December 12
 
 ## Inventory Update
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 4, 2025
+# freeCodeCamp Daily Coding Challenge - September 4
 
 ## Vowel Repeater
 

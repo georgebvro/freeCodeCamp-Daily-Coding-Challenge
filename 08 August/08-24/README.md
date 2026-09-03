@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 24, 2025
+# freeCodeCamp Daily Coding Challenge - August 24
 
 ## Character Battle
 

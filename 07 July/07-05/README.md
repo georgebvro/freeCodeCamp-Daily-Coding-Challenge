@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 5, 2026
+# freeCodeCamp Daily Coding Challenge - July 5
 
 ## Bucket Fill
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 17, 2026
+# freeCodeCamp Daily Coding Challenge - April 17
 
 ## Hidden Key
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 4, 2026
+# freeCodeCamp Daily Coding Challenge - March 4
 
 ## Playing Card Values
 

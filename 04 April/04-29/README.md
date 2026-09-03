@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 29, 2026
+# freeCodeCamp Daily Coding Challenge - April 29
 
 ## URL Query Parser
 

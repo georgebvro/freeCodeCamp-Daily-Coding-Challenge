@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 8, 2026
+# freeCodeCamp Daily Coding Challenge - June 8
 
 ## Jet Lagged
 

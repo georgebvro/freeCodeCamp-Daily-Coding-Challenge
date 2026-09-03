@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 21, 2026
+# freeCodeCamp Daily Coding Challenge - January 21
 
 ## Markdown Inline Code Parser
 

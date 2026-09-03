@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 28, 2025
+# freeCodeCamp Daily Coding Challenge - October 28
 
 ## Navigator
 

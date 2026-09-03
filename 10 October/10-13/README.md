@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 13, 2025
+# freeCodeCamp Daily Coding Challenge - October 13
 
 ## 24 to 12
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 8, 2025
+# freeCodeCamp Daily Coding Challenge - September 8
 
 ## Acronym Builder
 

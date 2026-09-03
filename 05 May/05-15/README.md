@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 15, 2026
+# freeCodeCamp Daily Coding Challenge - May 15
 
 ## Coffee Order Parser
 

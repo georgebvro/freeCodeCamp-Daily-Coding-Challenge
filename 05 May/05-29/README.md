@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 29, 2026
+# freeCodeCamp Daily Coding Challenge - May 29
 
 ## Wider Aspect Ratio
 

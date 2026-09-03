@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 30, 2026
+# freeCodeCamp Daily Coding Challenge - May 30
 
 ## Best Hand
 

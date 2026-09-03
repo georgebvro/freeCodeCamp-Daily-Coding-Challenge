@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 14, 2025
+# freeCodeCamp Daily Coding Challenge - September 14
 
 ## Word Frequency
 

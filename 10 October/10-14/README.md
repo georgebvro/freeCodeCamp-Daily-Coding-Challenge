@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 14, 2025
+# freeCodeCamp Daily Coding Challenge - October 14
 
 ## String Count
 

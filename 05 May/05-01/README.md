@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 1, 2026
+# freeCodeCamp Daily Coding Challenge - May 1
 
 ## Anagram Groups
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 20, 2025
+# freeCodeCamp Daily Coding Challenge - December 20
 
 ## Purge Most Frequent
 

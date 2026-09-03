@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 9, 2026
+# freeCodeCamp Daily Coding Challenge - April 9
 
 ## Next Bingo Number
 

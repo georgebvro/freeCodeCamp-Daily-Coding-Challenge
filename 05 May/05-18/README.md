@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 18, 2026
+# freeCodeCamp Daily Coding Challenge - May 18
 
 ## Bingo Range
 

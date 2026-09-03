@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 17, 2025
+# freeCodeCamp Daily Coding Challenge - September 17
 
 ## Slug Generator
 

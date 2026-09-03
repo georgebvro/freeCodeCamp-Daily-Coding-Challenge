@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 19, 2026
+# freeCodeCamp Daily Coding Challenge - May 19
 
 ## Sleep Debt
 

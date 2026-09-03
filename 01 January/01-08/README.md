@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 8, 2026
+# freeCodeCamp Daily Coding Challenge - January 8
 
 ## Sorted Array?
 

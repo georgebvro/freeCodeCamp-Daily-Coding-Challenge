@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 1, 2026
+# freeCodeCamp Daily Coding Challenge - July 1
 
 ## Lucky Number
 

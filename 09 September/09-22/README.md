@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 22, 2025
+# freeCodeCamp Daily Coding Challenge - September 22
 
 ## Digits vs Letters
 

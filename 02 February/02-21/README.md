@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 21, 2026
+# freeCodeCamp Daily Coding Challenge - February 21
 
 ## 2026 Winter Games Day 16: Curling
 

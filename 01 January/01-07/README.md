@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 7, 2026
+# freeCodeCamp Daily Coding Challenge - January 7
 
 ## Markdown Unordered List Parser
 

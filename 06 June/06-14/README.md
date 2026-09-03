@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 14, 2026
+# freeCodeCamp Daily Coding Challenge - June 14
 
 ## Credit Card Validator
 

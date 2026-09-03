@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 13, 2026
+# freeCodeCamp Daily Coding Challenge - April 13
 
 ## Name Initials
 

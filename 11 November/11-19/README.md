@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 19, 2025
+# freeCodeCamp Daily Coding Challenge - November 19
 
 ## Markdown Heading Converter
 

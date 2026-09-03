@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 28, 2025
+# freeCodeCamp Daily Coding Challenge - August 28
 
 ## Second Best
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 30, 2026
+# freeCodeCamp Daily Coding Challenge - April 30
 
 ## Binary Crossword
 

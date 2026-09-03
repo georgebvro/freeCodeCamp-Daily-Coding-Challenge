@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 23, 2026
+# freeCodeCamp Daily Coding Challenge - January 23
 
 ## Hex Validator
 

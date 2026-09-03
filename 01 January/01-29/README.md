@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 29, 2026
+# freeCodeCamp Daily Coding Challenge - January 29
 
 ## Letters-Numbers
 

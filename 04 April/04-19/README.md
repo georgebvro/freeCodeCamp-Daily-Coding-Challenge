@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 19, 2026
+# freeCodeCamp Daily Coding Challenge - April 19
 
 ## Unique Stair Climber
 Given a number of stairs, return how many distinct ways someone can climb them taking either 1 or 2 steps at a time.

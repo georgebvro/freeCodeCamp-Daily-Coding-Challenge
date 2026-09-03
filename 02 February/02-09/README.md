@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 9, 2026
+# freeCodeCamp Daily Coding Challenge - February 9
 
 ## 2026 Winter Games Day 4: Ski Jumping
 

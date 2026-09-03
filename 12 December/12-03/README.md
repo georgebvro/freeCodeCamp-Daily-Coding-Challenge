@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 3, 2025
+# freeCodeCamp Daily Coding Challenge - December 3
 
 ## Markdown Ordered List Item Converter
 

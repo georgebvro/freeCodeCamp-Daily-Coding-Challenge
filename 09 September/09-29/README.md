@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 29, 2025
+# freeCodeCamp Daily Coding Challenge - September 29
 
 ## Longest Word
 

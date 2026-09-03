@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 22, 2025
+# freeCodeCamp Daily Coding Challenge - August 22
 
 ## Message Decoder
 

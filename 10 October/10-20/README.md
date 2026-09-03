@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 20, 2025
+# freeCodeCamp Daily Coding Challenge - October 20
 
 ## Tip Calculator
 

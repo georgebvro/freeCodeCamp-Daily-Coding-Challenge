@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 25, 2026
+# freeCodeCamp Daily Coding Challenge - May 25
 
 ## Secret Number
 

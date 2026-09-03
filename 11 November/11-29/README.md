@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 29, 2025
+# freeCodeCamp Daily Coding Challenge - November 29
 
 ## Ball Trajectory
 

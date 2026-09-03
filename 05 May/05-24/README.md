@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 24, 2026
+# freeCodeCamp Daily Coding Challenge - May 24
 
 ## Roman Numeral Fixer
 

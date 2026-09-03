@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 27, 2026
+# freeCodeCamp Daily Coding Challenge - January 27
 
 ## Odd or Even Day
 

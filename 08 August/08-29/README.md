@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 29, 2025
+# freeCodeCamp Daily Coding Challenge - August 29
 
 ## Candlelight
 

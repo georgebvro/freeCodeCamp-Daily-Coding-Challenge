@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 11, 2026
+# freeCodeCamp Daily Coding Challenge - April 11
 
 ## Rook and Bishop Attack
 

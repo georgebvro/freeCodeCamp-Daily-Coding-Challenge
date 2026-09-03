@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 30, 2026
+# freeCodeCamp Daily Coding Challenge - March 30
 
 ## Due Date
 

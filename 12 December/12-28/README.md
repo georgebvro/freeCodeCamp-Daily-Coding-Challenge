@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 28, 2025
+# freeCodeCamp Daily Coding Challenge - December 28
 
 ## SCREAMING_SNAKE_CASE
 

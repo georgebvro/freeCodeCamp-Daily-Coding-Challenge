@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 3, 2026
+# freeCodeCamp Daily Coding Challenge - April 3
 
 ## Browser History
 Given an array of browser commands, return an array with two values: the history as an array of URLs, and the index of the current page.

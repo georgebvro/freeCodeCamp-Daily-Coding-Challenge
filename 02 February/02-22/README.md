@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 22, 2026
+# freeCodeCamp Daily Coding Challenge - February 22
 
 ## 2026 Winter Games Day 17: Closing Day
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 6, 2026
+# freeCodeCamp Daily Coding Challenge - January 6
 
 ## vOwElcAsE
 

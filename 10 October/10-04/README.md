@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 4, 2025
+# freeCodeCamp Daily Coding Challenge - October 4
 
 ## Space Week Day 1: Stellar Classification
 

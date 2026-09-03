@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 10, 2025
+# freeCodeCamp Daily Coding Challenge - October 10
 
 ## Space Week Day 7: Launch Fuel
 

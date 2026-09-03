@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 12, 2026
+# freeCodeCamp Daily Coding Challenge - January 12
 
 ## Plant the Crop
 

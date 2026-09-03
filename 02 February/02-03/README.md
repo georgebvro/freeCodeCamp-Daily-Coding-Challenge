@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 3, 2026
+# freeCodeCamp Daily Coding Challenge - February 3
 
 ## String Mirror
 

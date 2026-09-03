@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 12, 2026
+# freeCodeCamp Daily Coding Challenge - April 12
 
 ## Spiral Matrix
 

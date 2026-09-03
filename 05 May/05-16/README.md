@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 16, 2026
+# freeCodeCamp Daily Coding Challenge - May 16
 
 ## Longest Domino Chain
 

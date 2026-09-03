@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 22, 2026
+# freeCodeCamp Daily Coding Challenge - April 22
 
 ## Earth Day Cleanup Crew
 

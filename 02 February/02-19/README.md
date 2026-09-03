@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 19, 2026
+# freeCodeCamp Daily Coding Challenge - February 19
 
 ## 2026 Winter Games Day 14: Ski Mountaineering
 

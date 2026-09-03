@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 30, 2025
+# freeCodeCamp Daily Coding Challenge - December 30
 
 ## Sum the String
 

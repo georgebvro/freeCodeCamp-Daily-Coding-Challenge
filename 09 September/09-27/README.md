@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 27, 2025
+# freeCodeCamp Daily Coding Challenge - September 27
 
 ## Spam Detector
 

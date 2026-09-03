@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 10, 2025
+# freeCodeCamp Daily Coding Challenge - December 10
 
 ## Markdown Bold Parser
 

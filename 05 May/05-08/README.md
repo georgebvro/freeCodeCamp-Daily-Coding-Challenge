@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 8, 2026
+# freeCodeCamp Daily Coding Challenge - May 8
 
 ## Medication Reminder
 

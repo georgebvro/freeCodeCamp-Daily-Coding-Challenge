@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 25, 2026
+# freeCodeCamp Daily Coding Challenge - February 25
 
 ## Sequential Difference
 

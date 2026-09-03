@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 30, 2025
+# freeCodeCamp Daily Coding Challenge - November 30
 
 ## AI Detector
 

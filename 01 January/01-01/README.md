@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 1, 2026
+# freeCodeCamp Daily Coding Challenge - January 1
 
 ## Resolution Streak
 

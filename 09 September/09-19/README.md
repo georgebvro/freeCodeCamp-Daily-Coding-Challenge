@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 19, 2025
+# freeCodeCamp Daily Coding Challenge - September 19
 
 ## Photo Storage
 

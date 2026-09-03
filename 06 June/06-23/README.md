@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 23, 2026
+# freeCodeCamp Daily Coding Challenge - June 23
 
 ## BMI Calculator
 

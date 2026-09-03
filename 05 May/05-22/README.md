@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 22, 2026
+# freeCodeCamp Daily Coding Challenge - May 22
 
 ## Meeting Time
 

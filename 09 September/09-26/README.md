@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 26, 2025
+# freeCodeCamp Daily Coding Challenge - September 26
 
 ## Caught Speeding
 

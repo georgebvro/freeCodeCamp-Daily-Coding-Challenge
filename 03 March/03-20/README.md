@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 20, 2026
+# freeCodeCamp Daily Coding Challenge - March 20
 
 ## Equinox Shadows
 

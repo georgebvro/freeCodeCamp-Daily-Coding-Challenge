@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 8, 2025
+# freeCodeCamp Daily Coding Challenge - October 8
 
 ## Space Week Day 5: Goldilocks Zone
 

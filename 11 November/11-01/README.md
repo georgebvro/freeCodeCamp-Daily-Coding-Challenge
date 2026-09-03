@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 1, 2025
+# freeCodeCamp Daily Coding Challenge - November 1
 
 ## Signature Validation
 

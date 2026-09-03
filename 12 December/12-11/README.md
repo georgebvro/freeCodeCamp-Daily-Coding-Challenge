@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 11, 2025
+# freeCodeCamp Daily Coding Challenge - December 11
 
 ## Roman Numeral Builder
 

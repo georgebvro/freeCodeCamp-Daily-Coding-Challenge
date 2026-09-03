@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 1, 2025
+# freeCodeCamp Daily Coding Challenge - September 1
 
 ## Tribonacci Sequence
 

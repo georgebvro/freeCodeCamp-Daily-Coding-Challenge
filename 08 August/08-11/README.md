@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 11, 2025
+# freeCodeCamp Daily Coding Challenge - August 11
 
 ## Vowel Balance
 

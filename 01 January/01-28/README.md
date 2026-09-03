@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 28, 2026
+# freeCodeCamp Daily Coding Challenge - January 28
 
 ## Flatten the Array
 

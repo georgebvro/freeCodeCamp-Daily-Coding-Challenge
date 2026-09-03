@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 24, 2025
+# freeCodeCamp Daily Coding Challenge - December 24
 
 ## Markdown Image Parser
 

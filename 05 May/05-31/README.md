@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 31, 2026
+# freeCodeCamp Daily Coding Challenge - May 31
 
 ## Parentheses Combinations
 

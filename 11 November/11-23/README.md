@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 23, 2025
+# freeCodeCamp Daily Coding Challenge - November 23
 
 ## Character Count
 

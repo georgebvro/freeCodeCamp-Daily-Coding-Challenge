@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 19, 2025
+# freeCodeCamp Daily Coding Challenge - August 19
 
 ## Sum of Squares
 

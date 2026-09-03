@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 22, 2025
+# freeCodeCamp Daily Coding Challenge - November 22
 
 ## Recipe Scaler
 

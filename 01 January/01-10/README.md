@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 10, 2026
+# freeCodeCamp Daily Coding Challenge - January 10
 
 ## Tic-Tac-Toe
 

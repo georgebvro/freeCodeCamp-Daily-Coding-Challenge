@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 27, 2026
+# freeCodeCamp Daily Coding Challenge - March 27
 
 ## Truncate the Text 2
 

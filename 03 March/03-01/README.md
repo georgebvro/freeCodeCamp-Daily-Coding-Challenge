@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 1, 2026
+# freeCodeCamp Daily Coding Challenge - March 1
 
 ## Flattened
 

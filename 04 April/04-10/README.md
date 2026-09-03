@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 10, 2026
+# freeCodeCamp Daily Coding Challenge - April 10
 
 ## Rook Attack
 

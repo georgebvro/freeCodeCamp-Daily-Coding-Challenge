@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 2, 2025
+# freeCodeCamp Daily Coding Challenge - December 2
 
 ## Camel to Snake
 

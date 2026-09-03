@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 11, 2026
+# freeCodeCamp Daily Coding Challenge - January 11
 
 ## Par for the Hole
 

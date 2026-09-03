@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 1, 2026
+# freeCodeCamp Daily Coding Challenge - February 1
 
 ## Digital Detox
 

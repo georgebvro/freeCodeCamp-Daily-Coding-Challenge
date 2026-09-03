@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 18, 2026
+# freeCodeCamp Daily Coding Challenge - February 18
 
 ## 2026 Winter Games Day 13: Nordic Combined
 

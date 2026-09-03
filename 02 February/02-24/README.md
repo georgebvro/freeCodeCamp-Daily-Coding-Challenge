@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 24, 2026
+# freeCodeCamp Daily Coding Challenge - February 24
 
 ## Business Day Count
 

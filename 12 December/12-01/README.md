@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 1, 2025
+# freeCodeCamp Daily Coding Challenge - December 1
 
 ## Miles to Kilometers
 

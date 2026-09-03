@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 21, 2026
+# freeCodeCamp Daily Coding Challenge - April 21
 
 ## Odd Words
 

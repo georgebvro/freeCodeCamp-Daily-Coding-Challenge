@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 30, 2026
+# freeCodeCamp Daily Coding Challenge - January 30
 
 ## Valid Pawn Moves
 

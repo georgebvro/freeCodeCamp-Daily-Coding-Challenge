@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 26, 2026
+# freeCodeCamp Daily Coding Challenge - March 26
 
 ## Movie Night
 

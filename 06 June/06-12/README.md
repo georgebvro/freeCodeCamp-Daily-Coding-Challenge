@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 12, 2026
+# freeCodeCamp Daily Coding Challenge - June 12
 
 ## HTML Content Extractor
 

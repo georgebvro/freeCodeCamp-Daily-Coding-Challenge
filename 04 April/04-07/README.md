@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 7, 2026
+# freeCodeCamp Daily Coding Challenge - April 7
 
 ## Palindrome Characters
 

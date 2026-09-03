@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 17, 2025
+# freeCodeCamp Daily Coding Challenge - November 17
 
 ## Fingerprint Test
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 2, 2026
+# freeCodeCamp Daily Coding Challenge - January 2
 
 ## Nth Fibonacci Number
 

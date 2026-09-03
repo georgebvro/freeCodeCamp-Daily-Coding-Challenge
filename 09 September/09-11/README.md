@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 11, 2025
+# freeCodeCamp Daily Coding Challenge - September 11
 
 ## Reverse Sentence
 

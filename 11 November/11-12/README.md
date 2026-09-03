@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 12, 2025
+# freeCodeCamp Daily Coding Challenge - November 12
 
 ## Email Signature Generator
 

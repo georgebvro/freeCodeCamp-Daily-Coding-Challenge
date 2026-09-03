@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 3, 2026
+# freeCodeCamp Daily Coding Challenge - March 3
 
 ## Perfect Cube Count
 

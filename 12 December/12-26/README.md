@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 26, 2025
+# freeCodeCamp Daily Coding Challenge - December 26
 
 ## Sum of Divisors
 

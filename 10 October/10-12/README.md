@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 12, 2025
+# freeCodeCamp Daily Coding Challenge - October 12
 
 ## Battle of Words
 

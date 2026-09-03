@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 13, 2026
+# freeCodeCamp Daily Coding Challenge - March 13
 
 ## Parking Fee Calculator
 

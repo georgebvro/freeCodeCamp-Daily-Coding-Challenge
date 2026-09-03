@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 25, 2025
+# freeCodeCamp Daily Coding Challenge - December 25
 
 ## Snowflake Generator
 

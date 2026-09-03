@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 13, 2026
+# freeCodeCamp Daily Coding Challenge - February 13
 
 ## 2026 Winter Games Day 8: Luge
 

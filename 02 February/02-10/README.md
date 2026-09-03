@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 10, 2026
+# freeCodeCamp Daily Coding Challenge - February 10
 
 ## 2026 Winter Games Day 5: Cross-Country Skiing
 

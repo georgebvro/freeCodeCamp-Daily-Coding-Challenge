@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 22, 2025
+# freeCodeCamp Daily Coding Challenge - December 22
 
 ## Traveling Shopper
 

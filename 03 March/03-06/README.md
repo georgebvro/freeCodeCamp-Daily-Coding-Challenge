@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 6, 2026
+# freeCodeCamp Daily Coding Challenge - March 6
 
 ## Trail Traversal
 

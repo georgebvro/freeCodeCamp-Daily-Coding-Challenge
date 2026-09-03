@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 17, 2026
+# freeCodeCamp Daily Coding Challenge - March 17
 
 ## Anniversary Milestones
 

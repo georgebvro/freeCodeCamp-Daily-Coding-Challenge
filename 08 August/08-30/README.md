@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 30, 2025
+# freeCodeCamp Daily Coding Challenge - August 30
 
 ## Array Duplicates
 

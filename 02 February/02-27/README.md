@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 27, 2026
+# freeCodeCamp Daily Coding Challenge - February 27
 
 ## Matrix Shift
 

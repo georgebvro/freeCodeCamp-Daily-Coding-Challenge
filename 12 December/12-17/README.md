@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 17, 2025
+# freeCodeCamp Daily Coding Challenge - December 17
 
 ## Markdown Blockquote Parser
 

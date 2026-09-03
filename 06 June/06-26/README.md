@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 26, 2026
+# freeCodeCamp Daily Coding Challenge - June 26
 
 ## Blood Bank
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 9, 2026
+# freeCodeCamp Daily Coding Challenge - January 9
 
 ## Circular Prime
 

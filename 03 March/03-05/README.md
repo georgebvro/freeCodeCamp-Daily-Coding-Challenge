@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 5, 2026
+# freeCodeCamp Daily Coding Challenge - March 5
 
 ## Smallest Gap
 

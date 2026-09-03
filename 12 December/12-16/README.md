@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 16, 2025
+# freeCodeCamp Daily Coding Challenge - December 16
 
 ## Consonant Count
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 15, 2025
+# freeCodeCamp Daily Coding Challenge - October 15
 
 ## HTML Tag Stripper
 

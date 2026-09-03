@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 13, 2026
+# freeCodeCamp Daily Coding Challenge - May 13
 
 ## Offending Element
 

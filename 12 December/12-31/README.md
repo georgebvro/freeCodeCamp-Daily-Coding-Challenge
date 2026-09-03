@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 31, 2025
+# freeCodeCamp Daily Coding Challenge - December 31
 
 ## Markdown Italic Parser
 

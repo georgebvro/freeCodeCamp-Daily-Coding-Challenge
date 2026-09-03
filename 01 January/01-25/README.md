@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 25, 2026
+# freeCodeCamp Daily Coding Challenge - January 25
 
 ## Scaled Image
 

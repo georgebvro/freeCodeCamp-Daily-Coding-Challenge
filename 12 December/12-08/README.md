@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 8, 2025
+# freeCodeCamp Daily Coding Challenge - December 8
 
 ## Pounds to Kilograms
 

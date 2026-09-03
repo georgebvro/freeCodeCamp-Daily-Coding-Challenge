@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 5, 2026
+# freeCodeCamp Daily Coding Challenge - May 5
 
 ## Narcissistic Number
 

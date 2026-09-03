@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 24, 2025
+# freeCodeCamp Daily Coding Challenge - October 24
 
 ## Hidden Treasure
 

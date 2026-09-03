@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 2, 2026
+# freeCodeCamp Daily Coding Challenge - February 2
 
 ## Groundhog Day
 

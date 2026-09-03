@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 7, 2025
+# freeCodeCamp Daily Coding Challenge - December 7
 
 ## String Compression
 

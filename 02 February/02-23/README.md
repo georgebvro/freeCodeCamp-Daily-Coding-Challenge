@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 23, 2026
+# freeCodeCamp Daily Coding Challenge - February 23
 
 ## Blood Type Compatibility
 

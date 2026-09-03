@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 24, 2025
+# freeCodeCamp Daily Coding Challenge - November 24
 
 ## Message Validator
 

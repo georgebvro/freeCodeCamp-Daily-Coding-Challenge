@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 16, 2025
+# freeCodeCamp Daily Coding Challenge - November 16
 
 ## Rectangle Count
 

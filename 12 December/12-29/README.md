@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 29, 2025
+# freeCodeCamp Daily Coding Challenge - December 29
 
 ## Takeoff Fuel
 

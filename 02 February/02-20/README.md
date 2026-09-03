@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 20, 2026
+# freeCodeCamp Daily Coding Challenge - February 20
 
 ## 2026 Winter Games Day 15: Freestyle Skiing
 

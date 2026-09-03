@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 13, 2025
+# freeCodeCamp Daily Coding Challenge - August 13
 
 ## Fibonacci Sequence
 

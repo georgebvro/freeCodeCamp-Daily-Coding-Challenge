@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 23, 2025
+# freeCodeCamp Daily Coding Challenge - December 23
 
 ## Re: Fwd: Fw: Count
 

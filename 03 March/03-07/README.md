@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 7, 2026
+# freeCodeCamp Daily Coding Challenge - March 7
 
 ## Element Size
 

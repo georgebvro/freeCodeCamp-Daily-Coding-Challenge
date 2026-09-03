@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 30, 2025
+# freeCodeCamp Daily Coding Challenge - October 30
 
 ## Nth Prime
 

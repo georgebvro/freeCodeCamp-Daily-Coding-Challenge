@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 17, 2026
+# freeCodeCamp Daily Coding Challenge - May 17
 
 ## Mongo ID Date
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 14, 2025
+# freeCodeCamp Daily Coding Challenge - August 14
 
 ## S P A C E J A M
 

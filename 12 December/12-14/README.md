@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 14, 2025
+# freeCodeCamp Daily Coding Challenge - December 14
 
 ## Capitalize It
 

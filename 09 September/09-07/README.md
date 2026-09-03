@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 7, 2025
+# freeCodeCamp Daily Coding Challenge - September 7
 
 ## Roman Numeral Parser
 

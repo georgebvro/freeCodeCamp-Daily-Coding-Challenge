@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 30, 2026
+# freeCodeCamp Daily Coding Challenge - June 30
 
 ## Duplicate Character Count
 

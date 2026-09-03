@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 31, 2026
+# freeCodeCamp Daily Coding Challenge - March 31
 
 ## Wake-Up Alarm
 

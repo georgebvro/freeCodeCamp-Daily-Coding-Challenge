@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 2, 2025
+# freeCodeCamp Daily Coding Challenge - September 2
 
 ## RGB to Hex
 

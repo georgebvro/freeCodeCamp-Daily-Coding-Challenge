@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 15, 2025
+# freeCodeCamp Daily Coding Challenge - December 15
 
 ## Speed Check
 

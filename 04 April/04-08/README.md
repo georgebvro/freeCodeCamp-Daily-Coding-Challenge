@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 8, 2026
+# freeCodeCamp Daily Coding Challenge - April 8
 
 ## FizzBuzz Validator
 

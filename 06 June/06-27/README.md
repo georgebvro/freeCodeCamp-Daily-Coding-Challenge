@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 27, 2026
+# freeCodeCamp Daily Coding Challenge - June 27
 
 ## Periodic Spelling
 

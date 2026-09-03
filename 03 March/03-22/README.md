@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 22, 2026
+# freeCodeCamp Daily Coding Challenge - March 22
 
 ## Coffee Roast Detector
 

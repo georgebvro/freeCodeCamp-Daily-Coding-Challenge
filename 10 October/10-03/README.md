@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 3, 2025
+# freeCodeCamp Daily Coding Challenge - October 3
 
 ## P@ssw0rd Str3ngth!
 

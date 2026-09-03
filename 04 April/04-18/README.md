@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 18, 2026
+# freeCodeCamp Daily Coding Challenge - April 18
 
 ## Array Sum Finder
 

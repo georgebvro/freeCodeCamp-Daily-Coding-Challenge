@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 6, 2025
+# freeCodeCamp Daily Coding Challenge - November 6
 
 ## Weekday Finder
 

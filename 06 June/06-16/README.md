@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 16, 2026
+# freeCodeCamp Daily Coding Challenge - June 16
 
 ## British to American
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 21, 2025
+# freeCodeCamp Daily Coding Challenge - August 21
 
 ## Mile Pace
 

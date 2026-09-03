@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 18, 2025
+# freeCodeCamp Daily Coding Challenge - October 18
 
 ## Missing Socks
 

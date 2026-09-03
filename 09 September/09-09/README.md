@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 9, 2025
+# freeCodeCamp Daily Coding Challenge - September 9
 
 ## Unique Characters
 

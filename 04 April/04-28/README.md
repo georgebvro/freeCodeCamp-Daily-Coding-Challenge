@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 28, 2026
+# freeCodeCamp Daily Coding Challenge - April 28
 
 ## Number Words
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 6, 2026
+# freeCodeCamp Daily Coding Challenge - February 6
 
 ## 2026 Winter Games Day 1: Opening Day
 

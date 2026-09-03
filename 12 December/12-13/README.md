@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - December 13, 2025
+# freeCodeCamp Daily Coding Challenge - December 13
 
 ## Game of Life
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 28, 2026
+# freeCodeCamp Daily Coding Challenge - May 28
 
 ## FizzBuzz Count
 

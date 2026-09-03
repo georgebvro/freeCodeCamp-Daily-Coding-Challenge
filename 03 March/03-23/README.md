@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 23, 2026
+# freeCodeCamp Daily Coding Challenge - March 23
 
 ## No Consecutive Repeats
 

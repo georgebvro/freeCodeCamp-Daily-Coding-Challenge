@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 4, 2026
+# freeCodeCamp Daily Coding Challenge - July 4
 
 ## Kaprekar's Routine
 

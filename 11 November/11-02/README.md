@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 2, 2025
+# freeCodeCamp Daily Coding Challenge - November 2
 
 ## Infected
 

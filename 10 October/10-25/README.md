@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 25, 2025
+# freeCodeCamp Daily Coding Challenge - October 25
 
 ## Complementary DNA
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 21, 2026
+# freeCodeCamp Daily Coding Challenge - March 21
 
 ## QR Decoder
 

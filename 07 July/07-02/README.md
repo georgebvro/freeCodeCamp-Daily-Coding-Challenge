@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 2, 2026
+# freeCodeCamp Daily Coding Challenge - July 2
 
 ## Max Profit
 

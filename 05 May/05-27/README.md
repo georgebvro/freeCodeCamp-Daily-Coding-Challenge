@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 27, 2026
+# freeCodeCamp Daily Coding Challenge - May 27
 
 ## Pizza Party
 

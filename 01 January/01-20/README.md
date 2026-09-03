@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 20, 2026
+# freeCodeCamp Daily Coding Challenge - January 20
 
 ## Consonant Case
 

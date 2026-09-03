@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 11, 2026
+# freeCodeCamp Daily Coding Challenge - May 11
 
 ## Oldest Person
 

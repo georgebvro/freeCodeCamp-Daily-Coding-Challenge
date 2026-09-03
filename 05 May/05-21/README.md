@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 21, 2026
+# freeCodeCamp Daily Coding Challenge - May 21
 
 ## I Before E
 

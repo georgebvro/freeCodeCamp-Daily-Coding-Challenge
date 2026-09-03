@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 17, 2025
+# freeCodeCamp Daily Coding Challenge - August 17
 
 ## Targeted Sum
 

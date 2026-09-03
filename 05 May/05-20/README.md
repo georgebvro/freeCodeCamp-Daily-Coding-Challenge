@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 20, 2026
+# freeCodeCamp Daily Coding Challenge - May 20
 
 ## String Zipper
 

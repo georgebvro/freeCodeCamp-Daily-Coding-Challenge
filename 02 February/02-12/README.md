@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 12, 2026
+# freeCodeCamp Daily Coding Challenge - February 12
 
 ## 2026 Winter Games Day 7: Speed Skating
 

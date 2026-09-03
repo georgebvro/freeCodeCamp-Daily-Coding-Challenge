@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 14, 2025
+# freeCodeCamp Daily Coding Challenge - November 14
 
 ## Is It the Weekend?
 

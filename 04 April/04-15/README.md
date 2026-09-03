@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 15, 2026
+# freeCodeCamp Daily Coding Challenge - April 15
 
 ## Sorted Array Swap
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 11, 2025
+# freeCodeCamp Daily Coding Challenge - November 11
 
 ## Vowels and Consonants
 

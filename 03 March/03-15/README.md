@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 15, 2026
+# freeCodeCamp Daily Coding Challenge - March 15
 
 ## Captured Chess Pieces
 

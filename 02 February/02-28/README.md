@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 28, 2026
+# freeCodeCamp Daily Coding Challenge - February 28
 
 ## Add Punctuation
 

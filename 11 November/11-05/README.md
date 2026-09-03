@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 5, 2025
+# freeCodeCamp Daily Coding Challenge - November 5
 
 ## Matrix Builder
 

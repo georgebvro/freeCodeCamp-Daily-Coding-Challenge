@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 17, 2026
+# freeCodeCamp Daily Coding Challenge - February 17
 
 ## 2026 Winter Games Day 12: Bobsled
 

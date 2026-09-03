@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 11, 2026
+# freeCodeCamp Daily Coding Challenge - March 11
 
 ## Word Length Converter
 

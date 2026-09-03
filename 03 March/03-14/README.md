@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 14, 2026
+# freeCodeCamp Daily Coding Challenge - March 14
 
 ## Pi Day
 

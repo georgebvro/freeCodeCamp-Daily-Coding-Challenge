@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 8, 2026
+# freeCodeCamp Daily Coding Challenge - March 8
 
 ## HSL Validator
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 6, 2026
+# freeCodeCamp Daily Coding Challenge - April 6
 
 ## What Day Is It?
 

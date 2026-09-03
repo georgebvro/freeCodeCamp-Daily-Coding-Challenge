@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - August 26, 2025
+# freeCodeCamp Daily Coding Challenge - August 26
 
 ## Reverse Parenthesis
 

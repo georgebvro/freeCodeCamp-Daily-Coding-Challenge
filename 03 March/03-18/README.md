@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 18, 2026
+# freeCodeCamp Daily Coding Challenge - March 18
 
 ## Largest Number
 

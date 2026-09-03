@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 25, 2026
+# freeCodeCamp Daily Coding Challenge - March 25
 
 ## Cooldown Time
 

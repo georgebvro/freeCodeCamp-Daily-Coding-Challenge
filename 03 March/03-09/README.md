@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 9, 2026
+# freeCodeCamp Daily Coding Challenge - March 9
 
 ## Array Sum
 

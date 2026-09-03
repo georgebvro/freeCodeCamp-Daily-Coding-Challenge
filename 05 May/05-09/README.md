@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 9, 2026
+# freeCodeCamp Daily Coding Challenge - May 9
 
 ## Transposed Matrix
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 4, 2026
+# freeCodeCamp Daily Coding Challenge - June 4
 
 ## Schema Validator Part 4
 

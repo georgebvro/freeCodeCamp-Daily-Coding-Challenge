@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 10, 2026
+# freeCodeCamp Daily Coding Challenge - March 10
 
 ## Array Insertion
 

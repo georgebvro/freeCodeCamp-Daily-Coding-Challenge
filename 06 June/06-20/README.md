@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 20, 2026
+# freeCodeCamp Daily Coding Challenge - June 20
 
 ## Prime Factorization
 

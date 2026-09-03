@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 6, 2026
+# freeCodeCamp Daily Coding Challenge - May 6
 
 ## Allergen Friendly Meals
 

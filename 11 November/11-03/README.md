@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - November 3, 2025
+# freeCodeCamp Daily Coding Challenge - November 3
 
 ## Word Counter
 

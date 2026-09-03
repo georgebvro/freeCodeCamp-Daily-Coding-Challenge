@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 9, 2026
+# freeCodeCamp Daily Coding Challenge - June 9
 
 ## Roommates
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 17, 2026
+# freeCodeCamp Daily Coding Challenge - January 17
 
 ## Knight Moves
 

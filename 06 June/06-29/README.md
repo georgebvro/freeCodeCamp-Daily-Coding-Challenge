@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 29, 2026
+# freeCodeCamp Daily Coding Challenge - June 29
 
 ## Song Mood Finder
 

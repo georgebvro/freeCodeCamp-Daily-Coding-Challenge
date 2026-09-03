@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 16, 2026
+# freeCodeCamp Daily Coding Challenge - February 16
 
 ## 2026 Winter Games Day 11: Ice Hockey
 

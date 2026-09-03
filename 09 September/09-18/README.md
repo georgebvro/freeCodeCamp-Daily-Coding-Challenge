@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 18, 2025
+# freeCodeCamp Daily Coding Challenge - September 18
 
 ## Fill The Tank
 

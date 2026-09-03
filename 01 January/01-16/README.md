@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 16, 2026
+# freeCodeCamp Daily Coding Challenge - January 16
 
 ## Integer Hypotenuse
 

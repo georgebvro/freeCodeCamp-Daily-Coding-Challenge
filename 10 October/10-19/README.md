@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 19, 2025
+# freeCodeCamp Daily Coding Challenge - October 19
 
 ## HTML Attribute Extractor
 

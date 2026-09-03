@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - March 29, 2026
+# freeCodeCamp Daily Coding Challenge - March 29
 
 ## ISBN-10 Validator
 

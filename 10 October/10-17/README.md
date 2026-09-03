@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 17, 2025
+# freeCodeCamp Daily Coding Challenge - October 17
 
 ## Credit Card Masker
 

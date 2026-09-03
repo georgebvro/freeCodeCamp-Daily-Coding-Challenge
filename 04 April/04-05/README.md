@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 5, 2026
+# freeCodeCamp Daily Coding Challenge - April 5
 
 ## Digit Rotation Escape
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 24, 2026
+# freeCodeCamp Daily Coding Challenge - January 24
 
 ## Bingo! Letter
 

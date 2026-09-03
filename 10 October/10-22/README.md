@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 22, 2025
+# freeCodeCamp Daily Coding Challenge - October 22
 
 ## Speak Wisely, You Must
 

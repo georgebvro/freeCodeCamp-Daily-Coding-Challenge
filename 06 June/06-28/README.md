@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 28, 2026
+# freeCodeCamp Daily Coding Challenge - June 28
 
 ## Connect 3
 

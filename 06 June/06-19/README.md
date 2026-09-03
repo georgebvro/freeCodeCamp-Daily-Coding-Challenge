@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 19, 2026
+# freeCodeCamp Daily Coding Challenge - June 19
 
 ## Rental Cost
 

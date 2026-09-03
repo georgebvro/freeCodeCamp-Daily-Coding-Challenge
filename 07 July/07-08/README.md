@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 8, 2026
+# freeCodeCamp Daily Coding Challenge - July 8
 
 ## Issue Triage
 

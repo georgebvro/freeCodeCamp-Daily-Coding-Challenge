@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 27, 2025
+# freeCodeCamp Daily Coding Challenge - October 27
 
 ## Integer Sequence
 

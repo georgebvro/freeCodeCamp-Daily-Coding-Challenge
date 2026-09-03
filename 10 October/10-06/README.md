@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - October 6, 2025
+# freeCodeCamp Daily Coding Challenge - October 6
 
 ## Space Week Day 3: Phone Home
 

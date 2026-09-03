@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 23, 2026
+# freeCodeCamp Daily Coding Challenge - April 23
 
 ## Closest Time Direction
 

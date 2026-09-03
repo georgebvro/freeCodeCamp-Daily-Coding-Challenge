@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 4, 2026
+# freeCodeCamp Daily Coding Challenge - April 4
 
 ## Equation Validation
 

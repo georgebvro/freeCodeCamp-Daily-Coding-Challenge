@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 1, 2026
+# freeCodeCamp Daily Coding Challenge - April 1
 
 ## Prank Number
 

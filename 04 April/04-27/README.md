@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - April 27, 2026
+# freeCodeCamp Daily Coding Challenge - April 27
 
 ## Word Score
 

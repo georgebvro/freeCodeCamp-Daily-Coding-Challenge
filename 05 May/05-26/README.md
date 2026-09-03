@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 26, 2026
+# freeCodeCamp Daily Coding Challenge - May 26
 
 ## Sum of Differences
 

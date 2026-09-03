@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - May 23, 2026
+# freeCodeCamp Daily Coding Challenge - May 23
 
 ## Open Issues
 

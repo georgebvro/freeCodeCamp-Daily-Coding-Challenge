@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 4, 2026
+# freeCodeCamp Daily Coding Challenge - January 4
 
 ## Leap Year Calculator
 

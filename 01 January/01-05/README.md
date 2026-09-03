@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - January 5, 2026
+# freeCodeCamp Daily Coding Challenge - January 5
 
 ## Tire Pressure
 

@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - February 15, 2026
+# freeCodeCamp Daily Coding Challenge - February 15
 
 ## 2026 Winter Games Day 10: Alpine Skiing
 

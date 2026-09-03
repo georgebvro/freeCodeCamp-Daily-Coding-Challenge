@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - September 23, 2025
+# freeCodeCamp Daily Coding Challenge - September 23
 
 ## String Mirror
 

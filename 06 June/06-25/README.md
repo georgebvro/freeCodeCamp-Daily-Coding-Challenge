@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - June 25, 2026
+# freeCodeCamp Daily Coding Challenge - June 25
 
 ## Frontmatter Parser
 
