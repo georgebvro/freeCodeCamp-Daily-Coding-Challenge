@@ -1,4 +1,4 @@
-# freeCodeCamp Daily Coding Challenge - July 7, 2026
+# freeCodeCamp Daily Coding Challenge - July 6, 2026
 
 ## lowercase words
 
