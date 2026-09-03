@@ -1,5 +1,5 @@
 # freeCodeCamp Daily Coding Challenge
 
-https://www.freecodecamp.org/learn/daily-coding-challenge/archive
+This repository contains both JavaScript and Python solutions for all the Daily Coding Challenges on freeCodeCamp, throughout the year.
 
-> New challenges are released at midnight US Central time.
+https://www.freecodecamp.org/learn/daily-coding-challenge/archive
