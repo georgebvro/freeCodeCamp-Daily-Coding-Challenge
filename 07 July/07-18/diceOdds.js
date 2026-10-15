@@ -1,6 +1,8 @@
 function getOdds(dice, target) {
   const DIE_SIDES = 6;
   const possibleRollsCount = DIE_SIDES ** dice;
+
+/* Top-down approach using recursion with memoization
   const cache = new Map();
 
   const countSuccessfulRolls = (diceLeft, targetRemaining) => {
@@ -30,6 +32,43 @@ function getOdds(dice, target) {
   }
 
   return `1 in ${Math.round(possibleRollsCount / countSuccessfulRolls(dice, target))}`;
+*/
+
+/* Bottom-up approach using iteration with a table
+  const table = Array.from(
+    { length: 1 }, () => Array.from(
+      { length: dice * DIE_SIDES }, (_, index) => index < DIE_SIDES ? 1 : 0
+    )
+  );
+
+  for (let die = 1; die < dice; ++die) {
+    const newRow = [];
+
+    for (let i = 0; i < dice * DIE_SIDES; ++i) {
+      newRow.push(
+        table[die - 1]
+          .slice(i - DIE_SIDES < 0 ? 0 : i - DIE_SIDES, i)
+          .reduce((acc, value) => acc + value, 0)
+      );
+    }
+
+    table.push(newRow);
+  }
+
+  return `1 in ${Math.round(possibleRollsCount / table[dice - 1][target - 1])}`;
+*/
+
+// Same bottom-up approach using iteration but the table is optimized to a one dimension array
+  let table = Array.from({ length: dice * DIE_SIDES }, (_, index) => index < DIE_SIDES ? 1 : 0);
+
+  for (let die = 2; die <= dice; ++die) {
+    table = table.map((_, index, source) => source
+      .slice(index - DIE_SIDES < 0 ? 0 : index - DIE_SIDES, index)
+      .reduce((acc, value) => acc + value, 0)
+    );
+  }
+
+  return `1 in ${Math.round(possibleRollsCount / table[target - 1])}`;
 }
 
 // --- TEST SUITE ---

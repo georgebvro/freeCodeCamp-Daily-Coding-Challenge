@@ -1,30 +1,53 @@
 def get_odds(dice, target):
     DIE_SIDES = 6
     possible_rolls_count = DIE_SIDES ** dice
-    cache = {}
 
-    def count_successful_rolls(dice_left, target_remaining):
-        key = dice_left, target_remaining
+# Top-down approach using recursion with memoization
+#    cache = {}
+#    
+#    def count_successful_rolls(dice_left, target_remaining):
+#        key = dice_left, target_remaining
+#
+#        if key in cache:
+#            return cache[key]
+#
+#        if dice_left == 0:
+#            return 1 if target_remaining == 0 else 0
+#
+#        if target_remaining < dice_left or target_remaining > dice_left * DIE_SIDES:
+#            return 0
+#
+#        target_hit_count = 0
+#
+#        for die_face in range(1, DIE_SIDES + 1):
+#            target_hit_count += count_successful_rolls(dice_left - 1, target_remaining - die_face)
+#
+#        cache[key] = target_hit_count
+#
+#        return target_hit_count
+#
+#    return f"1 in {round(possible_rolls_count / count_successful_rolls(dice, target))}"
 
-        if key in cache:
-            return cache[key]
+# Bottom-up approach using iteration with a table
+#    table = [[1 if index < DIE_SIDES else 0 for index in range(dice * DIE_SIDES)]]
+#
+#    table.extend(
+#        [
+#            sum(table[die - 1][0 if i - DIE_SIDES < 0 else i - DIE_SIDES : i])
+#            for i in range(dice * DIE_SIDES)
+#        ] 
+#        for die in range(1, dice)
+#    )
+#
+#    return f"1 in {round(possible_rolls_count / table[dice - 1][target - 1])}"
 
-        if dice_left == 0:
-            return 1 if target_remaining == 0 else 0
+# Same bottom-up approach using iteration but the table is optimized to a one dimension list
+    table = [1 if index < DIE_SIDES else 0 for index in range(dice * DIE_SIDES)]
 
-        if target_remaining < dice_left or target_remaining > dice_left * DIE_SIDES:
-            return 0
+    for die in range(2, dice + 1):
+        table = [sum(table[0 if i - DIE_SIDES < 0 else i - DIE_SIDES : i]) for i in range(dice * DIE_SIDES)]
 
-        target_hit_count = 0
-
-        for die_face in range(1, DIE_SIDES + 1):
-            target_hit_count += count_successful_rolls(dice_left - 1, target_remaining - die_face)
-
-        cache[key] = target_hit_count
-
-        return target_hit_count
-
-    return f"1 in {round(possible_rolls_count / count_successful_rolls(dice, target))}"
+    return f"1 in {round(possible_rolls_count / table[target - 1])}"
 
 # --- TEST SUITE ---
 
