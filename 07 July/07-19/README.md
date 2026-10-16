@@ -1,18 +1,15 @@
-# freeCodeCamp Daily Coding Challenge - July 18
+# freeCodeCamp Daily Coding Challenge - July 19
 
-## Dice Odds
+## Elevator Stops
+Given a number for the current floor of an elevator and an array of requested floors, return an array of the order the elevator should visit them to minimize number of floors traveled.
 
-Given a number of six-sided dice to roll and a target sum, return the odds of rolling that sum as a string in the format `"1 in X"`.
-
-* The number of dice will be between 1 and 6.
-* The target sum is always achievable with the given number of dice.
-* Round `"X"` to the nearest whole number.
+* If tied, go up first
+* Floors with a request must be visited when the elevator first passes them
 
 ### Tests:
 
-1. `getOdds(1, 5)` should return `"1 in 6"`.
-2. `getOdds(2, 4)` should return `"1 in 12"`.
-3. `getOdds(3, 10)` should return `"1 in 8"`.
-4. `getOdds(4, 7)` should return `"1 in 65"`.
-5. `getOdds(5, 26)` should return `"1 in 111"`.
-6. `getOdds(6, 35)` should return `"1 in 7776"`.
+1. `elevatorStops(5, [2, 8, 3, 9])` should return `[3, 2, 8, 9]`.
+2. `elevatorStops(6, [2, 10, 8, 3, 1, 9])` should return `[8, 9, 10, 3, 2, 1]`.
+3. `elevatorStops(1, [4, 8, 3, 6, 9])` should return `[3, 4, 6, 8, 9]`.
+4. `elevatorStops(12, [6, 10, 7, 3, 1, 4])` should return `[10, 7, 6, 4, 3, 1]`.
+5. `elevatorStops(11, [2, 8, 23, 5, 12, 10, 6, 9, 19])` should return `[10, 9, 8, 6, 5, 2, 12, 19, 23]`.
