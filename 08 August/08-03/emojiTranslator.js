@@ -1,0 +1,61 @@
+function getEmojiPhrase(str) {
+  const EMOJIS = {
+    '👶': "baby",
+    '🐱': "cat",
+    '🐕': "dog",
+    '🐟': "fish",
+    '🥵': "hot",
+    '🧊': "ice",
+    '🪨': "rock",
+    '🦈': "shark",
+    '🍲': "soup",
+    '⭐': "star"
+  };
+
+  return [...str]
+    .map(emoji => EMOJIS[emoji])
+    .join(" ");
+}
+
+// --- TEST SUITE ---
+
+const testsText = String.raw`
+1. getEmojiPhrase("🪨⭐") should return "rock star".
+2. getEmojiPhrase("🥵🐕") should return "hot dog".
+3. getEmojiPhrase("👶🦈") should return "baby shark".
+4. getEmojiPhrase("⭐🐟") should return "star fish".
+5. getEmojiPhrase("🧊🧊👶") should return "ice ice baby".
+6. getEmojiPhrase("🐱🐟🍲") should return "cat fish soup".
+`;
+
+const testsRegex = /(?<number>\d+)\.\s(?<functionCall>.+) should return (?<output>.+?)\.?$/gm;
+const testData = [...testsText.matchAll(testsRegex).map(match => match.groups)];
+
+function runTests(testData) {
+  console.log("——————————————————————————",
+            "\n🧪Starting Verification...",
+            "\n——————————————————————————");
+
+  let failCount = 0;
+  
+  testData.forEach(test => {
+    const functionCallOutput = eval(test.functionCall);
+    const testOutput = eval(`(${test.output})`);
+
+    if (JSON.stringify(functionCallOutput) === JSON.stringify(testOutput)) {
+      console.log(`${test.number}.✅PASS - Function Call: ${test.functionCall}`);
+    } else {
+      console.log(`${test.number}.❌FAIL - Function Call: ${test.functionCall}\nExpected: ${JSON.stringify(testOutput)}\nGot: ${JSON.stringify(functionCallOutput)}`);
+
+      ++failCount;
+    }
+    console.log("————————————————————————————");
+  })
+
+  console.log(failCount
+    ? `⚠️WARNING: ${failCount}/${testData.length} tests FAILED.`
+    : "🎉SUCCESS: All tests PASSED."
+  );
+}
+
+runTests(testData);
